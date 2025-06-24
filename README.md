@@ -2,9 +2,11 @@
 
 ## 项目简介
 
-本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 和 `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz) 的节目指南格式，便于集成使用。
+本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 和 `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz) 的格式，便于查阅节目单。
 
 本项目将定期采集最新可用的组播源，并剔除已失效的频道地址，以保证源的可用性与准确性。
+
+本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV) [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
 
 ## 直播源使用说明
 
