@@ -10,11 +10,11 @@ CCTV7,http://{{your_udpxy_address}}/udp/233.50.201.120:5140
 CCTV8,http://{{your_udpxy_address}}/udp/233.50.201.199:5140
 CCTV9,http://{{your_udpxy_address}}/udp/233.50.201.121:5140
 CCTV10,http://{{your_udpxy_address}}/udp/233.50.201.122:5140
-CCTV11,http://{{your_udpxy_address}}/udp/233.50.202.39:5140
+CCTV11,http://{{your_udpxy_address}}/udp/233.50.200.132:5140
 CCTV12,http://{{your_udpxy_address}}/udp/233.50.201.123:5140
 CCTV13,http://{{your_udpxy_address}}/udp/233.50.201.246:5140
 CCTV14,http://{{your_udpxy_address}}/udp/233.50.201.124:5140
-CCTV15,http://{{your_udpxy_address}}/udp/233.50.202.40:5140
+CCTV15,http://{{your_udpxy_address}}/udp/233.50.200.133:5140
 CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.63:5140
 CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
@@ -27,6 +27,7 @@ CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 山东卫视,http://{{your_udpxy_address}}/udp/233.50.201.105:5140
 江苏卫视,http://{{your_udpxy_address}}/udp/233.50.201.106:5140
 北京卫视,http://{{your_udpxy_address}}/udp/233.50.201.107:5140
+纪实科教,http://{{your_udpxy_address}}/udp/233.50.202.34:5140
 四川卫视,http://{{your_udpxy_address}}/udp/233.50.201.139:5140
 河北卫视,http://{{your_udpxy_address}}/udp/233.50.201.140:5140
 辽宁卫视,http://{{your_udpxy_address}}/udp/233.50.201.141:5140
@@ -79,6 +80,8 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 杭州影视,http://{{your_udpxy_address}}/udp/233.50.201.176:5140
 杭州青少,http://{{your_udpxy_address}}/udp/233.50.201.177:5140
 杭州导视,http://{{your_udpxy_address}}/udp/233.50.201.182:5140
+临平新闻,http://{{your_udpxy_address}}/udp/233.50.202.32:5140
+余杭新闻,http://{{your_udpxy_address}}/udp/233.50.201.159:5140
 宁波TV1,http://{{your_udpxy_address}}/udp/233.50.201.168:5140
 宁波TV2,http://{{your_udpxy_address}}/udp/233.50.201.178:5140
 宁波TV3,http://{{your_udpxy_address}}/udp/233.50.201.179:5140
@@ -93,7 +96,6 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 之江记录,http://{{your_udpxy_address}}/udp/233.50.202.25:5140
 衢州新闻综合,http://{{your_udpxy_address}}/udp/233.50.202.11:5140
 衢州公共,http://{{your_udpxy_address}}/udp/233.50.202.12:5140
-余杭新闻,http://{{your_udpxy_address}}/udp/233.50.201.159:5140
 剧场,#genre#
 欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.201.189:5140
