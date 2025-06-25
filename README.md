@@ -6,36 +6,62 @@
 
 [点此查看频道检测结果（每日更新）](https://epg.816.ink/report.html)
 
-- `Zhejiang_Telecom_IPTV.m3u`采用的是本地台标，请查看下面的使用本地台标。
-- `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是本地台标，请查看下面的使用在线台标。
+本项目现已提供在线生成自定义源功能，请查阅[在线生成](#在线生成)
+
+- `Zhejiang_Telecom_IPTV.m3u`采用的是本地台标，请查看下面的[使用本地台标](#使用本地台标)。
+- `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是在线台标，请查看下面的[使用在线台标](#使用在线台标)。
 
 本项目将定期采集最新可用的组播源，并剔除已失效的频道地址，以保证源的可用性与准确性。
 
-本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV) [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
+本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：
+- [GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV)
+- [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
 
 ## 直播源使用说明
 
 ### 一、常规使用
-#### 使用本地台标
-您可直接下载项目中提供的 `Zhejiang_Telecom_IPTV.m3u` 文件，并根据实际环境进行如下替换：
 
-- `{{your_logo_address}}`：替换为您 Logo 存放的 URL 地址，例如 `10.30.0.1:8080`；
+#### 在线生成
+
+本项目已经提供在线生成功能，无需手动替换变量，请点击[在线生成](https://epg.816.ink/gen.html)前往。  
+在线生成支持使用在线台标或本地台标的`.m3u`格式，也支持生成`.txt`格式，请按照网页提示操作。
+
+#### 使用本地台标
+
+您可直接下载项目中提供的 `Zhejiang_Telecom_IPTV.m3u` 文件，  
+并根据实际环境进行如下替换：
+
+- `{{your_logo_address}}`：替换为您 Logo 存放的 URL 地址，例如 `10.30.0.1:8080`；  
 - `{{your_udpxy_address}}`：替换为局域网内的 `udpxy` 代理地址及端口号，例如 `10.30.0.1:4022`。
 
-完成替换后，可将 `.m3u` 文件导入直播源播放器中进行播放。
+完成替换后，可将 `.m3u` 文件导入受支持的直播源播放器中进行播放。
 
 #### 使用在线台标
-如您需要使用在线台标，可直接下载项目中提供的 `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u` 文件，并根据实际环境进行如下替换：
+
+如您需要使用在线台标，可直接下载项目中提供的 `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u` 文件，  
+并根据实际环境进行如下替换：
 
 - `{{your_udpxy_address}}`：替换为局域网内的 `udpxy` 代理地址及端口号，例如 `10.30.0.1:4022`。
 
-完成替换后，可将 `.m3u` 文件导入直播源播放器中进行播放。
+完成替换后，可将 `.m3u` 文件导入受支持的直播源播放器中进行播放。
+
+#### 使用.txt文件
+
+如您需要使用txt格式直播源，可直接下载项目中提供的 `Zhejiang_Telecom_IPTV.txt` 文件，  
+并根据实际环境进行如下替换：
+
+- `{{your_udpxy_address}}`：替换为局域网内的 `udpxy` 代理地址及端口号，例如 `10.30.0.1:4022`。
+
+完成替换后，可将 `.txt` 文件导入受支持的直播源播放器中进行播放。
 
 ### 二、自定义使用
 
-如需对频道信息进行个性化编辑，可修改 `IPTV_Channels.csv` 文件内容，然后使用本项目提供的脚本 `IPTV_List_Convert.py` 将 CSV 文件转换为 `.m3u` 文件。请确保已安装脚本所需依赖后再运行转换操作。
+如需对频道信息进行个性化编辑，可修改 `IPTV_Channels.csv` 文件内容，  
+然后使用本项目提供的脚本 `IPTV_List_Convert.py` 将 CSV 文件转换为 `.m3u` 文件。  
+请确保已安装脚本所需依赖后再运行转换操作。
 
 ---
+
 ## ⚠️免责声明 / Responsibility Disclaimer
 
 ### 1. 本项目仅供学习与研究用途  
