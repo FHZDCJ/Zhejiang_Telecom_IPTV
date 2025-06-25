@@ -2,16 +2,16 @@
 
 ## 项目简介
 
-本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 格式的组播地址列表 和 `.txt` `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz){:target="_blank"} 的格式，便于查阅节目单。
+本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 格式的组播地址列表 和 `.txt` `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz) 的格式，便于查阅节目单。
 
-[点此查看频道检测结果（每日更新）](https://epg.816.ink/report.html){:target="_blank"}
+[点此查看频道检测结果（每日更新）](https://epg.816.ink/report.html)
 
 - `Zhejiang_Telecom_IPTV.m3u`采用的是本地台标，请查看下面的使用本地台标。
 - `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是本地台标，请查看下面的使用在线台标。
 
 本项目将定期采集最新可用的组播源，并剔除已失效的频道地址，以保证源的可用性与准确性。
 
-本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV){:target="_blank"} [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV){:target="_blank"}
+本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV){:target="_blank"} [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
 
 ## 直播源使用说明
 
