@@ -11,7 +11,7 @@
 
 本项目将定期采集最新可用的组播源，并剔除已失效的频道地址，以保证源的可用性与准确性。
 
-本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV){:target="_blank"} [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
+本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV) [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
 
 ## 直播源使用说明
 
