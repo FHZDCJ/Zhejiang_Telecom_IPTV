@@ -1,40 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1综合
 http://{{your_udpxy_address}}/udp/233.50.201.118:5140
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2财经
 http://{{your_udpxy_address}}/udp/233.50.201.119:5140
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3综艺
 http://{{your_udpxy_address}}/udp/233.50.201.196:5140
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4中文国际
 http://{{your_udpxy_address}}/udp/233.50.200.101:5140
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5体育
 http://{{your_udpxy_address}}/udp/233.50.201.197:5140
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+奥运赛事
 http://{{your_udpxy_address}}/udp/233.50.201.220:5140
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6电影
 http://{{your_udpxy_address}}/udp/233.50.201.198:5140
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7军事农业
 http://{{your_udpxy_address}}/udp/233.50.201.120:5140
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8电视剧
 http://{{your_udpxy_address}}/udp/233.50.201.199:5140
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9纪录
 http://{{your_udpxy_address}}/udp/233.50.201.121:5140
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10科教
 http://{{your_udpxy_address}}/udp/233.50.201.122:5140
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11戏曲
 http://{{your_udpxy_address}}/udp/233.50.202.39:5140
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12社会与法
 http://{{your_udpxy_address}}/udp/233.50.201.123:5140
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13新闻
 http://{{your_udpxy_address}}/udp/233.50.201.246:5140
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14少儿
 http://{{your_udpxy_address}}/udp/233.50.201.124:5140
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15音乐
 http://{{your_udpxy_address}}/udp/233.50.202.40:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
 http://{{your_udpxy_address}}/udp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
 http://{{your_udpxy_address}}/udp/233.50.201.192:5140
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17农业农村
 http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://{{your_udpxy_address}}/udp/233.50.201.100:5140
@@ -88,6 +89,8 @@ http://{{your_udpxy_address}}/udp/233.50.200.115:5140
 http://{{your_udpxy_address}}/udp/233.50.202.42:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://{{your_udpxy_address}}/udp/233.50.200.175:5140
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://{{your_udpxy_address}}/udp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="卫视",卡酷少儿
 http://{{your_udpxy_address}}/udp/233.50.200.166:5140
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="卫视",哈哈炫动
@@ -96,8 +99,6 @@ http://{{your_udpxy_address}}/udp/233.50.200.167:5140
 http://{{your_udpxy_address}}/udp/233.50.200.169:5140
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="卫视",中国教育4台
 http://{{your_udpxy_address}}/udp/233.50.200.162:5140
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://{{your_udpxy_address}}/udp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://{{your_udpxy_address}}/udp/233.50.201.65:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -114,23 +115,23 @@ http://{{your_udpxy_address}}/udp/233.50.201.57:5140
 http://{{your_udpxy_address}}/udp/233.50.200.184:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://{{your_udpxy_address}}/udp/233.50.201.73:5140
-#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文.png" group-title="国际",凤凰卫视中文
+#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文.png" group-title="卫视",凤凰卫视中文
 http://{{your_udpxy_address}}/udp/233.50.202.35:5140
-#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯.png" group-title="国际",凤凰卫视资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯.png" group-title="卫视",凤凰卫视资讯
 http://{{your_udpxy_address}}/udp/233.50.202.36:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="国际",CGTN
 http://{{your_udpxy_address}}/udp/233.50.201.126:5140
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="国际",CGTN西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="国际",CGTN西班牙语
 http://{{your_udpxy_address}}/udp/233.50.201.36:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="国际",CGTN法语
 http://{{your_udpxy_address}}/udp/233.50.201.37:5140
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png" group-title="国际",CGTN阿语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://epg.112114.xyz/logo/CGTN阿语.png" group-title="国际",CGTN阿拉伯语
 http://{{your_udpxy_address}}/udp/233.50.201.38:5140
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="国际",CGTN俄语
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="国际",CGTN俄罗斯语
 http://{{your_udpxy_address}}/udp/233.50.201.39:5140
-#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="https://epg.112114.xyz/logo/钱江频道.png" group-title="地方",钱江频道
+#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="https://epg.112114.xyz/logo/钱江频道.png" group-title="国际",钱江频道
 http://{{your_udpxy_address}}/udp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="地方",浙江经济生活
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="国际",浙江经济生活
 http://{{your_udpxy_address}}/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-id="浙江教育" tvg-name="浙江教育" tvg-logo="https://epg.112114.xyz/logo/浙江教育.png" group-title="地方",浙江教育
 http://{{your_udpxy_address}}/udp/233.50.201.134:5140
@@ -140,20 +141,17 @@ http://{{your_udpxy_address}}/udp/233.50.201.136:5140
 http://{{your_udpxy_address}}/udp/233.50.201.137:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="地方",浙江少儿
 http://{{your_udpxy_address}}/udp/233.50.201.138:5140
-#EXTINF:-1 tvg-id="杭州1综合" tvg-name="杭州1综合" tvg-logo="https://epg.112114.xyz/logo/杭州1综合.png" group-title="地方",杭州1综合
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="地方",杭州1综合
 http://{{your_udpxy_address}}/udp/233.50.201.173:5140
-#EXTINF:-1 tvg-id="杭州2明珠" tvg-name="杭州2明珠" tvg-logo="https://epg.112114.xyz/logo/杭州2明珠.png" group-title="地方",杭州2明珠
+#EXTINF:-1 tvg-id="杭州西湖明珠" tvg-name="杭州西湖明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="地方",杭州2明珠
 http://{{your_udpxy_address}}/udp/233.50.201.174:5140
-#EXTINF:-1 tvg-id="杭州3生活" tvg-name="杭州3生活" tvg-logo="https://epg.112114.xyz/logo/杭州3生活.png" group-title="地方",杭州3生活
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="地方",杭州3生活
 http://{{your_udpxy_address}}/udp/233.50.201.175:5140
-#EXTINF:-1 tvg-id="杭州4影视" tvg-name="杭州4影视" tvg-logo="https://epg.112114.xyz/logo/杭州4影视.png" group-title="地方",杭州4影视
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="地方",杭州4影视
 http://{{your_udpxy_address}}/udp/233.50.201.176:5140
-#EXTINF:-1 tvg-id="杭州5青少" tvg-name="杭州5青少" tvg-logo="https://epg.112114.xyz/logo/杭州5青少.png" group-title="地方",杭州5青少
+#EXTINF:-1 tvg-id="杭州青少" tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/杭州青少.png" group-title="地方",杭州5青少
 http://{{your_udpxy_address}}/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="地方",杭州导视
-http://{{your_udpxy_address}}/udp/233.50.201.182:5140
-http://{{your_udpxy_address}}/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="地方",临平新闻
 http://{{your_udpxy_address}}/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-id="宁波TV1" tvg-name="宁波TV1" tvg-logo="https://epg.112114.xyz/logo/宁波TV1.png" group-title="地方",宁波TV1
 http://{{your_udpxy_address}}/udp/233.50.201.168:5140
@@ -165,17 +163,15 @@ http://{{your_udpxy_address}}/udp/233.50.201.179:5140
 http://{{your_udpxy_address}}/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-id="温州新闻" tvg-name="温州新闻" tvg-logo="https://epg.112114.xyz/logo/温州新闻.png" group-title="地方",温州新闻
 http://{{your_udpxy_address}}/udp/233.50.201.87:5140
-#EXTINF:-1 tvg-id="衢州新闻" tvg-name="衢州新闻" tvg-logo="https://epg.112114.xyz/logo/衢州新闻.png" group-title="地方",衢州新闻
-http://{{your_udpxy_address}}/udp/233.50.201.155:5140
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="https://epg.112114.xyz/logo/绍兴新闻综合.png" group-title="地方",绍兴新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.156:5140
-#EXTINF:-1 tvg-id="湖州公共" tvg-name="湖州公共" tvg-logo="https://epg.112114.xyz/logo/湖州公共.png" group-title="地方",湖州公共
+#EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="https://epg.112114.xyz/logo/湖州新闻综合.png" group-title="地方",湖州新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.158:5140
 #EXTINF:-1 tvg-id="金华新闻" tvg-name="金华新闻" tvg-logo="https://epg.112114.xyz/logo/金华新闻.png" group-title="地方",金华新闻
 http://{{your_udpxy_address}}/udp/233.50.201.161:5140
 #EXTINF:-1 tvg-id="丽水新闻" tvg-name="丽水新闻" tvg-logo="https://epg.112114.xyz/logo/丽水新闻.png" group-title="地方",丽水新闻
 http://{{your_udpxy_address}}/udp/233.50.201.162:5140
-#EXTINF:-1 tvg-id="嘉兴新闻" tvg-name="嘉兴新闻" tvg-logo="https://epg.112114.xyz/logo/嘉兴新闻.png" group-title="地方",嘉兴新闻
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="https://epg.112114.xyz/logo/嘉兴新闻综合.png" group-title="地方",嘉兴新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.163:5140
 #EXTINF:-1 tvg-id="桐乡新闻" tvg-name="桐乡新闻" tvg-logo="https://epg.112114.xyz/logo/桐乡新闻.png" group-title="地方",桐乡新闻
 http://{{your_udpxy_address}}/udp/233.50.201.169:5140
@@ -189,6 +185,7 @@ http://{{your_udpxy_address}}/udp/233.50.202.12:5140
 http://{{your_udpxy_address}}/udp/233.50.201.159:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="剧场",欢笑剧场
 http://{{your_udpxy_address}}/udp/233.50.200.52:5140
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="剧场",欢笑剧场
 http://{{your_udpxy_address}}/udp/233.50.201.189:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="剧场",都市剧场
 http://{{your_udpxy_address}}/udp/233.50.201.190:5140
