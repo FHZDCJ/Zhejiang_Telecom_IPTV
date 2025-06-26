@@ -45,6 +45,8 @@ def fix_logo(logo: str, tvg_name: str, use_online: bool) -> str:
     """
     if use_online:
         return f"https://epg.112114.xyz/logo/{tvg_name}.png"
+    elif pd.isna(logo) or str(logo).strip() == "":
+        return ""
     logo = str(logo).strip()
     return logo if '://' in logo else LOGO_ROOT_ADDRESS + logo.lstrip('/')
 
