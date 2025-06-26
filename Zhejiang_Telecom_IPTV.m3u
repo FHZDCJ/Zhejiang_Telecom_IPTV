@@ -13,7 +13,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.197:5140
 http://{{your_udpxy_address}}/udp/233.50.201.220:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="http://{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6电影
 http://{{your_udpxy_address}}/udp/233.50.201.198:5140
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7军事农业
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="http://{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7国防军事
 http://{{your_udpxy_address}}/udp/233.50.201.120:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="http://{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8电视剧
 http://{{your_udpxy_address}}/udp/233.50.201.199:5140
@@ -51,6 +51,8 @@ http://{{your_udpxy_address}}/udp/233.50.201.104:5140
 http://{{your_udpxy_address}}/udp/233.50.201.105:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://{{your_logo_address}}/logo/jiangsu.png" group-title="卫视",江苏卫视
 http://{{your_udpxy_address}}/udp/233.50.201.106:5140
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="卫视",北京卫视4K
+http://{{your_udpxy_address}}/udp/233.50.202.100:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="卫视",北京卫视
 http://{{your_udpxy_address}}/udp/233.50.201.107:5140
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="http://{{your_logo_address}}/logo/nan" group-title="卫视",BRTV-纪实科教

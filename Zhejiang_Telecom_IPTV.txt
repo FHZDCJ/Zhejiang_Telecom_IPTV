@@ -26,6 +26,7 @@ CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 天津卫视,http://{{your_udpxy_address}}/udp/233.50.201.104:5140
 山东卫视,http://{{your_udpxy_address}}/udp/233.50.201.105:5140
 江苏卫视,http://{{your_udpxy_address}}/udp/233.50.201.106:5140
+北京卫视,http://{{your_udpxy_address}}/udp/233.50.202.100:5140
 北京卫视,http://{{your_udpxy_address}}/udp/233.50.201.107:5140
 纪实科教,http://{{your_udpxy_address}}/udp/233.50.202.34:5140
 四川卫视,http://{{your_udpxy_address}}/udp/233.50.201.139:5140
