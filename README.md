@@ -4,7 +4,7 @@
 
 本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 格式的组播地址列表 和 `.txt` `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz) 的格式，便于查阅节目单。
 
-[点此查看频道检测结果（每日更新）](https://epg.816.ink/report.html)
+[点此查看频道检测结果（每日更新）](https://epg.816.ink/Zhejiang_Telecom_IPTV/report.html)
 
 本项目现已提供在线生成自定义源功能，请查阅[在线生成](#在线生成)
 
@@ -27,8 +27,8 @@
 
 你可以在直播软件订阅以下链接，获取带有自定义 UDPXY 地址的 IPTV 播放列表文件：
 
-- `https://epg.816.ink/gen/?ip=你的IP:端口&type=文件类型`
-- `https://epg.816.ink/gen/?ip=你的IP:端口&logo=你的IP或域名:端口`
+- `https://epg.816.ink/Zhejiang_Telecom_IPTV/gen/?ip=你的IP:端口&type=文件类型`
+- `https://epg.816.ink/Zhejiang_Telecom_IPTV/gen/?ip=你的IP:端口&logo=你的IP或域名:端口`
 
 ###### 参数说明：
 
@@ -49,11 +49,11 @@
 
 示例请求：
 
-- `https://epg.816.ink/gen/?ip=192.168.1.1:2345`
+- `https://epg.816.ink/Zhejiang_Telecom_IPTV/gen/?ip=192.168.1.1:2345`
 使用在线台标的m3u源
-- `https://epg.816.ink/gen/?ip=192.168.1.1:2345&type=txt`
+- `https://epg.816.ink/Zhejiang_Telecom_IPTV/gen/?ip=192.168.1.1:2345&type=txt`
 txt源
-- `https://epg.816.ink/gen/?ip=192.168.1.1:2345&logo=192.168.1.1:8090`
+- `https://epg.816.ink/Zhejiang_Telecom_IPTV/gen/?ip=192.168.1.1:2345&logo=192.168.1.1:8090`
 使用自定义台标的m3u源
 
 ##### 请求限制
