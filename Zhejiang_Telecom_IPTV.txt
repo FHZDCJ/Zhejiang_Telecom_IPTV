@@ -68,9 +68,9 @@ CGTN西语,http://{{your_udpxy_address}}/udp/233.50.201.36:5140
 CGTN法语,http://{{your_udpxy_address}}/udp/233.50.201.37:5140
 CGTN阿语,http://{{your_udpxy_address}}/udp/233.50.201.38:5140
 CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
+地方,#genre#
 钱江频道,http://{{your_udpxy_address}}/udp/233.50.201.132:5140
 浙江经济生活,http://{{your_udpxy_address}}/udp/233.50.201.133:5140
-地方,#genre#
 浙江教育,http://{{your_udpxy_address}}/udp/233.50.201.134:5140
 浙江民生,http://{{your_udpxy_address}}/udp/233.50.201.136:5140
 浙江公共新闻,http://{{your_udpxy_address}}/udp/233.50.201.137:5140

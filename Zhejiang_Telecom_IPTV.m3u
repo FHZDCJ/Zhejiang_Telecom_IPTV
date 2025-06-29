@@ -133,9 +133,9 @@ http://{{your_udpxy_address}}/udp/233.50.201.37:5140
 http://{{your_udpxy_address}}/udp/233.50.201.38:5140
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="http://{{your_logo_address}}/logo/cgtn.png" group-title="国际",CGTN俄罗斯语
 http://{{your_udpxy_address}}/udp/233.50.201.39:5140
-#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="http://{{your_logo_address}}/logo/qianjiang.png" group-title="国际",钱江频道
+#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="http://{{your_logo_address}}/logo/qianjiang.png" group-title="地方",钱江频道
 http://{{your_udpxy_address}}/udp/233.50.201.132:5140
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="http://{{your_logo_address}}/logo/qianjiang.png" group-title="国际",浙江经济生活
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="http://{{your_logo_address}}/logo/qianjiang.png" group-title="地方",浙江经济生活
 http://{{your_udpxy_address}}/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-id="浙江教育" tvg-name="浙江教育" tvg-logo="http://{{your_logo_address}}/logo/qianjiang.png" group-title="地方",浙江教育
 http://{{your_udpxy_address}}/udp/233.50.201.134:5140
