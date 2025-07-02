@@ -27,8 +27,8 @@
 
 你可以在直播软件订阅以下链接，获取带有自定义 UDPXY 地址的 IPTV 播放列表文件：
 
-- `https://myepg.org/Zhejiang_Telecom_IPTV/gen/?ip=你的IP:端口&type=文件类型`
-- `https://myepg.org/Zhejiang_Telecom_IPTV/gen/?ip=你的IP:端口&logo=你的IP或域名:端口`
+- `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=你的IP:端口&type=文件类型`
+- `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=你的IP:端口&logo=你的IP或域名:端口`
 
 ##### 参数说明：
 
@@ -49,11 +49,11 @@
 
 示例请求：
 
-- `https://myepg.org/Zhejiang_Telecom_IPTV/gen/?ip=192.168.1.1:2345`
+- `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=192.168.1.1:2345`
 使用在线台标的m3u源
-- `https://myepg.org/Zhejiang_Telecom_IPTV/gen/?ip=192.168.1.1:2345&type=txt`
+- `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=192.168.1.1:2345&type=txt`
 txt源
-- `https://myepg.org/Zhejiang_Telecom_IPTV/gen/?ip=192.168.1.1:2345&logo=192.168.1.1:8090`
+- `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=192.168.1.1:2345&logo=192.168.1.1:8090`
 使用自定义台标的m3u源
 
 #### 请求限制
@@ -69,7 +69,7 @@ txt源
 
 #### 在线生成并下载节目源文件
 
-本项目已经提供在线生成功能，无需手动替换变量，请点击[在线生成](https://myepg.org/Zhejiang_Telecom_IPTV/gen.html)前往。  
+本项目已经提供在线生成功能，无需手动替换变量，请点击[在线生成](https://myepg.org/Zhejiang_Telecom_IPTV/OnlineGen.html)前往。  
 在线生成支持使用在线台标或本地台标的`.m3u`格式，也支持生成`.txt`格式，请按照网页提示操作。
 
 ### 使用本地台标
