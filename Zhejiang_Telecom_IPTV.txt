@@ -15,9 +15,17 @@ CCTV12,http://{{your_udpxy_address}}/udp/233.50.201.123:5140
 CCTV13,http://{{your_udpxy_address}}/udp/233.50.201.246:5140
 CCTV14,http://{{your_udpxy_address}}/udp/233.50.201.124:5140
 CCTV15,http://{{your_udpxy_address}}/udp/233.50.200.133:5140
-CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.63:5140
 CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
+4K超高清,#genre#
+CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.63:5140
+深圳卫视,http://{{your_udpxy_address}}/udp/233.50.201.193:5140
+广东卫视,http://{{your_udpxy_address}}/udp/233.50.201.194:5140
+北京卫视,http://{{your_udpxy_address}}/udp/233.50.202.100:5140
+欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.200.52:5140
+BesTV-1,http://{{your_udpxy_address}}/udp/233.50.200.182:5140
+BesTV-2,http://{{your_udpxy_address}}/udp/233.50.200.183:5140
+BesTV-3,http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 卫视,#genre#
 浙江卫视,http://{{your_udpxy_address}}/udp/233.50.201.100:5140
 深圳卫视,http://{{your_udpxy_address}}/udp/233.50.201.101:5140
@@ -26,7 +34,6 @@ CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 天津卫视,http://{{your_udpxy_address}}/udp/233.50.201.104:5140
 山东卫视,http://{{your_udpxy_address}}/udp/233.50.201.105:5140
 江苏卫视,http://{{your_udpxy_address}}/udp/233.50.201.106:5140
-北京卫视,http://{{your_udpxy_address}}/udp/233.50.202.100:5140
 北京卫视,http://{{your_udpxy_address}}/udp/233.50.201.107:5140
 纪实科教,http://{{your_udpxy_address}}/udp/233.50.202.34:5140
 四川卫视,http://{{your_udpxy_address}}/udp/233.50.201.139:5140
@@ -98,7 +105,6 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 衢州新闻综合,http://{{your_udpxy_address}}/udp/233.50.202.11:5140
 衢州公共,http://{{your_udpxy_address}}/udp/233.50.202.12:5140
 剧场,#genre#
-欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.201.189:5140
 都市剧场,http://{{your_udpxy_address}}/udp/233.50.201.190:5140
 付费,#genre#
@@ -111,9 +117,6 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 茶频道,http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 快乐垂钓,http://{{your_udpxy_address}}/udp/233.50.201.109:5140
 其他,#genre#
-BesTV-1,http://{{your_udpxy_address}}/udp/233.50.200.182:5140
-BesTV-2,http://{{your_udpxy_address}}/udp/233.50.200.183:5140
-BesTV-3,http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 晴彩竞技,http://{{your_udpxy_address}}/udp/233.50.202.26:5140
 晴彩篮球,http://{{your_udpxy_address}}/udp/233.50.202.27:5140
 晴彩青少,http://{{your_udpxy_address}}/udp/233.50.202.28:5140

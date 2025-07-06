@@ -32,11 +32,25 @@ http://{{your_udpxy_address}}/udp/233.50.201.124:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="http://{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15音乐
 http://{{your_udpxy_address}}/udp/233.50.200.133:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://{{your_logo_address}}/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
-http://{{your_udpxy_address}}/udp/233.50.201.63:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://{{your_logo_address}}/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
 http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="http://{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17农业农村
 http://{{your_udpxy_address}}/udp/233.50.200.113:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://{{your_logo_address}}/logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克
+http://{{your_udpxy_address}}/udp/233.50.201.63:5140
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://{{your_logo_address}}/logo/shenzhen.png" group-title="4K超高清",深圳卫视4K
+http://{{your_udpxy_address}}/udp/233.50.201.193:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://{{your_logo_address}}/logo/guangdong.png" group-title="4K超高清",广东卫视4K
+http://{{your_udpxy_address}}/udp/233.50.201.194:5140
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="4K超高清",北京卫视4K
+http://{{your_udpxy_address}}/udp/233.50.202.100:5140
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="" group-title="4K超高清",欢笑剧场
+http://{{your_udpxy_address}}/udp/233.50.200.52:5140
+#EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="" group-title="4K超高清",BesTV-1
+http://{{your_udpxy_address}}/udp/233.50.200.182:5140
+#EXTINF:-1 tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="" group-title="4K超高清",BesTV-2
+http://{{your_udpxy_address}}/udp/233.50.200.183:5140
+#EXTINF:-1 tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="" group-title="4K超高清",BesTV-3
+http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="http://{{your_logo_address}}/logo/zhejiang.png" group-title="卫视",浙江卫视
 http://{{your_udpxy_address}}/udp/233.50.201.100:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://{{your_logo_address}}/logo/shenzhen.png" group-title="卫视",深圳卫视
@@ -51,11 +65,9 @@ http://{{your_udpxy_address}}/udp/233.50.201.104:5140
 http://{{your_udpxy_address}}/udp/233.50.201.105:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="http://{{your_logo_address}}/logo/jiangsu.png" group-title="卫视",江苏卫视
 http://{{your_udpxy_address}}/udp/233.50.201.106:5140
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="卫视",北京卫视4K
-http://{{your_udpxy_address}}/udp/233.50.202.100:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="卫视",北京卫视
 http://{{your_udpxy_address}}/udp/233.50.201.107:5140
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="" group-title="卫视",BRTV-纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="卫视",BRTV-纪实科教
 http://{{your_udpxy_address}}/udp/233.50.202.34:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="http://{{your_logo_address}}/logo/sichuan.png" group-title="卫视",四川卫视
 http://{{your_udpxy_address}}/udp/233.50.201.139:5140
@@ -190,8 +202,6 @@ http://{{your_udpxy_address}}/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="" group-title="地方",衢州公共
 http://{{your_udpxy_address}}/udp/233.50.202.12:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="" group-title="剧场",欢笑剧场
-http://{{your_udpxy_address}}/udp/233.50.200.52:5140
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="" group-title="剧场",欢笑剧场
 http://{{your_udpxy_address}}/udp/233.50.201.189:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="" group-title="剧场",都市剧场
 http://{{your_udpxy_address}}/udp/233.50.201.190:5140
@@ -211,12 +221,6 @@ http://{{your_udpxy_address}}/udp/233.50.201.187:5140
 http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://{{your_logo_address}}/logo/kuailechuidiao.png" group-title="付费",快乐垂钓
 http://{{your_udpxy_address}}/udp/233.50.201.109:5140
-#EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="" group-title="其他",BesTV-1
-http://{{your_udpxy_address}}/udp/233.50.200.182:5140
-#EXTINF:-1 tvg-id="BesTV-2" tvg-name="BesTV-2" tvg-logo="" group-title="其他",BesTV-2
-http://{{your_udpxy_address}}/udp/233.50.200.183:5140
-#EXTINF:-1 tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="" group-title="其他",BesTV-3
-http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 #EXTINF:-1 tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="" group-title="其他",晴彩竞技
 http://{{your_udpxy_address}}/udp/233.50.202.26:5140
 #EXTINF:-1 tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="" group-title="其他",晴彩篮球
