@@ -1,43 +1,76 @@
-# 浙江电信 IPTV 组播地址
+<h1 style="text-align: center;">
+浙江电信IPTV组播源 & EPG分发
+</h1>
 
-# 项目简介
+---
 
-本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 格式的组播地址列表 和 `.txt` `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz) 的格式，便于查阅节目单。
+<h3 style="text-align: center;">
+🆓免费提供 ✅简单易用 ⏰高频更新 🔍自动检测 📥多格式输出 🧩自定义订阅 🔁提供EPG镜像
+</h3>
 
-**本项目现在还提供[112114 EPG](https://epg.112114.xyz/)分发，分发地址如下：**
+---
+
+## 目录
+
+- [项目简介](#项目简介)
+- [频道分辨率及有效性报告](#频道分辨率及有效性报告)
+- [项目文件说明](#项目文件说明)
+- [EPG镜像](#epg镜像)
+- [使用方法](#使用方法)
+    - [订阅链接形式使用](#订阅链接形式使用)
+        - [参数说明](#参数说明)
+        - [请求限制](#请求限制)
+    - [在线生成并下载节目源文件](#在线生成并下载节目源文件)
+    - [使用本地台标](#使用本地台标)
+    - [使用在线台标](#使用在线台标)
+    - [使用txt文件](#使用txt文件)
+    - [自定义使用](#自定义使用)
+- [免责声明 / Disclaimer](#免责声明--disclaimer)
+
+---
+
+## 项目简介
+
+本项目收录浙江电信IPTV的组播频道地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
+
+本项目具有两个同步镜像，两个仓库的数据保持一致：
+[GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV)  [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
+
+## 频道分辨率及有效性报告
+
+本项目每天自动对现有频道列表进行频道分辨率及有效性检测，并提供检测报告，你可以点击以下链接查阅。
+
+[https://myepg.org/Zhejiang_Telecom_IPTV/report.html](https://myepg.org/Zhejiang_Telecom_IPTV/report.html)
+
+## 项目文件说明
+
+本项目提供多种格式的频道源文件，适配不同播放器和使用场景：
+
+- `Zhejiang_Telecom_IPTV.m3u`：本地台标模板，适合局域网内自建http服务器使用。
+- `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`：使用112114的在线台标，开箱即用。
+- `Zhejiang_Telecom_IPTV.txt`：纯文本格式频道源。
+- `IPTV_Channels.csv`：频道清单。
+- `IPTV_List_Convert.py`：用于将`.csv`转换为`.m3u`格式的转换脚本，支持自定义参数。
+
+所有`.m3u`和`.txt`文件中的`{{your_udpxy_address}}`和`{{your_logo_address}}`占位符需根据你的实际网络环境替换为对应的地址。
+
+## EPG镜像
+
+本项目现在提供[112114 EPG](https://epg.112114.xyz/)镜像，镜像地址如下：
 
 - [https://myepg.org/EPG/112114/pp.xml](https://myepg.org/EPG/112114/pp.xml)
 - [https://myepg.org/EPG/112114/pp.xml.gz](https://myepg.org/EPG/112114/pp.xml.gz)
 
-[点此查看频道检测结果（每日更新）](https://myepg.org/Zhejiang_Telecom_IPTV/report.html)
+## 使用方法
 
-本项目现已提供订阅链接功能和在线生成并下载自定义源功能，请查阅[在线使用](#在线使用)
-
-**文件说明**
-- `Zhejiang_Telecom_IPTV.m3u`采用的是本地台标，请查看下面的[使用本地台标](#使用本地台标)。
-- `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是在线台标，请查看下面的[使用在线台标](#使用在线台标)。
-- `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是在线台标，请查看下面的[使用在线台标](#使用在线台标)。
-
-本项目将定期采集最新可用的组播源，并剔除已失效的频道地址，以保证源的可用性与准确性。
-
-本项目是私有仓库的分发副本，具有两个同步镜像，两个仓库的数据保持一致：
-- [GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV)
-- [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
-
-# 直播源使用说明
-
-## 一、常规使用
-
-### 在线使用
-
-#### 订阅链接形式使用
+### 订阅链接形式使用
 
 你可以在直播软件订阅以下链接，获取带有自定义 UDPXY 地址的 IPTV 播放列表文件：
 
 - `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=你的IP:端口&type=文件类型`
 - `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=你的IP:端口&logo=你的IP或域名:端口`
 
-##### 参数说明：
+#### 参数说明：
 
 |    参数名    | 示例值                                     | 是否必须 | 说明                                                                    |
 |:---------:|-----------------------------------------|:----:|-----------------------------------------------------------------------|
@@ -76,7 +109,7 @@ txt源
 
 超过请求次数限制后，您将不能获取数据，请设置合理的订阅周期。
 
-#### 在线生成并下载节目源文件
+### 在线生成并下载节目源文件
 
 本项目已经提供在线生成功能，无需手动替换变量，请点击[在线生成并下载](https://myepg.org/Zhejiang_Telecom_IPTV/OnlineGen.html)前往。  
 在线生成支持使用在线台标或本地台标的`.m3u`格式，也支持生成`.txt`格式，请按照网页提示操作。
@@ -109,7 +142,7 @@ txt源
 
 完成替换后，可将 `.txt` 文件导入受支持的直播源播放器中进行播放。
 
-## 二、自定义使用
+### 自定义使用
 
 如需对频道信息进行个性化编辑，可修改 `IPTV_Channels.csv` 文件内容，  
 然后使用本项目提供的脚本 `IPTV_List_Convert.py` 将 CSV 文件转换为 `.m3u` 文件。  
