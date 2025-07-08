@@ -4,6 +4,11 @@
 
 本项目收录了浙江地区中国电信 IPTV 的组播地址，提供 `.csv` 格式的组播地址列表 和 `.txt` `.m3u` 两种格式的直播源文件，方便用户按需使用与转换。大部分频道名称已适配 [http://epg.112114.xyz](http://epg.112114.xyz) 的格式，便于查阅节目单。
 
+**本项目现在还提供[112114 EPG](https://epg.112114.xyz/)分发，分发地址如下：**
+
+- [https://myepg.org/EPG/112114/pp.xml](https://myepg.org/EPG/112114/pp.xml)
+- [https://myepg.org/EPG/112114/pp.xml.gz](https://myepg.org/EPG/112114/pp.xml.gz)
+
 [点此查看频道检测结果（每日更新）](https://myepg.org/Zhejiang_Telecom_IPTV/report.html)
 
 本项目现已提供在线生成自定义源功能，请查阅[在线生成](#在线生成)
