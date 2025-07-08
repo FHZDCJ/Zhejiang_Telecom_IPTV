@@ -11,9 +11,11 @@
 
 [点此查看频道检测结果（每日更新）](https://myepg.org/Zhejiang_Telecom_IPTV/report.html)
 
-本项目现已提供在线生成自定义源功能，请查阅[在线生成](#在线生成)
+本项目现已提供订阅链接功能和在线生成并下载自定义源功能，请查阅[在线使用](#在线使用)
 
+**文件说明**
 - `Zhejiang_Telecom_IPTV.m3u`采用的是本地台标，请查看下面的[使用本地台标](#使用本地台标)。
+- `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是在线台标，请查看下面的[使用在线台标](#使用在线台标)。
 - `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`采用的是在线台标，请查看下面的[使用在线台标](#使用在线台标)。
 
 本项目将定期采集最新可用的组播源，并剔除已失效的频道地址，以保证源的可用性与准确性。
@@ -26,7 +28,7 @@
 
 ## 一、常规使用
 
-### 在线生成
+### 在线使用
 
 #### 订阅链接形式使用
 
@@ -60,6 +62,8 @@
 txt源
 - `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=192.168.1.1:2345&logo=192.168.1.1:8090`
 使用自定义台标的m3u源
+- `https://myepg.org/Zhejiang_Telecom_IPTV/Subscribe/?ip=192.168.1.1:2345&nocache`
+使用在线台标的m3u源，并且拒绝使用缓存
 
 #### 请求限制
 本功能需要消耗服务器资源，你的请求会受到限制：
@@ -74,7 +78,7 @@ txt源
 
 #### 在线生成并下载节目源文件
 
-本项目已经提供在线生成功能，无需手动替换变量，请点击[在线生成](https://myepg.org/Zhejiang_Telecom_IPTV/OnlineGen.html)前往。  
+本项目已经提供在线生成功能，无需手动替换变量，请点击[在线生成并下载](https://myepg.org/Zhejiang_Telecom_IPTV/OnlineGen.html)前往。  
 在线生成支持使用在线台标或本地台标的`.m3u`格式，也支持生成`.txt`格式，请按照网页提示操作。
 
 ### 使用本地台标
