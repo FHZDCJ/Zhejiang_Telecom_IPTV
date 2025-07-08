@@ -38,6 +38,8 @@
 
 本项目收录浙江电信IPTV的组播频道地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
 
+⚠️特别提示：本项目**仅提供浙江电信IPTV组播地址而非公网直播源，组播地址在公网不可访问**。如你需要测试组播地址，必须先订购浙江电信IPTV服务，并通过IPoE认证后使用UDPXY在局域网内转发才能使用。
+
 本项目具有两个同步镜像，两个仓库的数据保持一致：
 [GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV)  [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
 
