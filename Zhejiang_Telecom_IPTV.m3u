@@ -38,9 +38,9 @@ http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://{{your_logo_address}}/logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克
 http://{{your_udpxy_address}}/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="http://{{your_logo_address}}/logo/shenzhen.png" group-title="4K超高清",深圳卫视4K
-http://{{your_udpxy_address}}/udp/233.50.201.193:5140
+http://{{your_udpxy_address}}/udp/233.50.202.102:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://{{your_logo_address}}/logo/guangdong.png" group-title="4K超高清",广东卫视4K
-http://{{your_udpxy_address}}/udp/233.50.201.194:5140
+http://{{your_udpxy_address}}/udp/233.50.202.101:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="http://{{your_logo_address}}/logo/beijing.png" group-title="4K超高清",北京卫视4K
 http://{{your_udpxy_address}}/udp/233.50.202.100:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="" group-title="4K超高清",欢笑剧场
