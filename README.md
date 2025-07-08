@@ -6,6 +6,14 @@
 🆓免费提供 ✅简单易用 ⏰高频更新 🔍自动检测 📥多格式输出 🧩自定义订阅 🔁提供EPG镜像
 </h3>
 
+<div style="text-align: center;" align="center">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FHZDCJ/Zhejiang_Telecom_IPTV?style=flat">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/FHZDCJ/Zhejiang_Telecom_IPTV?style=flat">
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/FHZDCJ/Zhejiang_Telecom_IPTV">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FHZDCJ/Zhejiang_Telecom_IPTV">
+<img alt="Number of channels" src="https://myepg.org/Zhejiang_Telecom_IPTV/number.php">
+</div>
+
 ---
 
 ## 目录
@@ -27,7 +35,7 @@
 
 ---
 
-## 项目简介
+## 📖 项目简介
 
 本项目收录浙江电信IPTV的组播频道地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
 
