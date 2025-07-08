@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">
+<h1 style="text-align: center;" align="center">
 浙江电信IPTV组播源 & EPG分发
 </h1>
 
 ---
 
-<h3 style="text-align: center;">
+<h3 style="text-align: center;" align="center">
 🆓免费提供 ✅简单易用 ⏰高频更新 🔍自动检测 📥多格式输出 🧩自定义订阅 🔁提供EPG镜像
 </h3>
 
