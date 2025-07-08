@@ -233,8 +233,8 @@ http://{{your_udpxy_address}}/udp/233.50.202.29:5140
 http://{{your_udpxy_address}}/udp/233.50.200.177:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="" group-title="其他",第一财经
 http://{{your_udpxy_address}}/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="" group-title="其他",魅力足球
-http://{{your_udpxy_address}}/udp/233.50.200.176:5140
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="" group-title="其他",环球旅游
+http://{{your_udpxy_address}}/udp/233.50.202.31:5140
 #EXTINF:-1 tvg-id="浙江之声广播" tvg-name="浙江之声广播" tvg-logo="" group-title="广播",浙江之声广播
 http://{{your_udpxy_address}}/udp/233.50.201.79:5140
 #EXTINF:-1 tvg-id="浙江新闻广播" tvg-name="浙江新闻广播" tvg-logo="" group-title="广播",浙江新闻广播
