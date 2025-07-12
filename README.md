@@ -36,7 +36,7 @@
 
 ## 项目简介
 
-本项目收录浙江电信IPTV的组播频道地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
+本项目收录浙江电信IPTV的组播频道地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供台标，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
 
 本项目具有两个同步镜像，两个仓库的数据保持一致：
 [GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV)  [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
@@ -131,7 +131,7 @@ txt源
 
 ### 使用本地台标
 
-您可直接下载项目中提供的 `Zhejiang_Telecom_IPTV.m3u` 文件，  
+您可直接下载项目中提供的 `Zhejiang_Telecom_IPTV.m3u` 文件，
 并根据实际环境进行如下替换：
 
 - `{{your_logo_address}}`：替换为您 Logo 存放的 URL 地址，例如 `10.30.0.1:8080`；  
