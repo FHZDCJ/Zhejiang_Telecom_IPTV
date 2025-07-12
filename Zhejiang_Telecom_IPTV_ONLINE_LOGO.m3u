@@ -169,7 +169,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.175:5140
 http://{{your_udpxy_address}}/udp/233.50.201.176:5140
 #EXTINF:-1 tvg-id="杭州青少体育" tvg-name="杭州青少体育" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州青少.png" group-title="地方",杭州5青少
 http://{{your_udpxy_address}}/udp/233.50.201.177:5140
-#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/nan" group-title="地方",杭州导视
+#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州导视.png" group-title="地方",杭州导视
 http://{{your_udpxy_address}}/udp/233.50.201.182:5140
 #EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/nan" group-title="地方",临平新闻
 http://{{your_udpxy_address}}/udp/233.50.202.32:5140
@@ -183,7 +183,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.178:5140
 http://{{your_udpxy_address}}/udp/233.50.201.179:5140
 #EXTINF:-1 tvg-id="宁波TV4" tvg-name="宁波TV4" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/宁波影视剧.png" group-title="地方",宁波4影视
 http://{{your_udpxy_address}}/udp/233.50.201.180:5140
-#EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/温州新闻.png" group-title="地方",温州新闻综合
+#EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/温州新闻综合.png" group-title="地方",温州新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.87:5140
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/绍兴新闻综合.png" group-title="地方",绍兴新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.156:5140
