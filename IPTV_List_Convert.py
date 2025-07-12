@@ -19,7 +19,7 @@ OUTPUT_M3U_ONLINE_LOGO = Path('Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u')
 OUTPUT_TXT = Path('Zhejiang_Telecom_IPTV.txt')
 
 UDPXY_ADDRESS = 'http://{{your_udpxy_address}}/udp/'
-LOGO_ROOT_ADDRESS = 'http://{{your_logo_address}}/logo/'
+LOGO_ROOT_ADDRESS = 'http://{{your_logo_address}}/Logo/'
 # ==========================
 
 
@@ -34,17 +34,16 @@ def fix_url(url: str) -> str:
     return url if '://' in url else UDPXY_ADDRESS + url
 
 
-def fix_logo(logo: str, tvg_name: str, use_online: bool) -> str:
+def fix_logo(logo: str, use_online: bool) -> str:
     """
     补全 logo 地址（本地或在线）
 
     :param logo: 原始 logo 路径
-    :param tvg_name: 频道名（用于在线 logo）
     :param use_online: 是否使用在线 logo
     :return: 修正后的 logo 地址
     """
     if use_online:
-        return f"https://epg.112114.xyz/logo/{tvg_name}.png"
+        return f"https://myepg.org/Zhejiang_Telecom_IPTV/Logo/{logo}"
     elif pd.isna(logo) or str(logo).strip() == "":
         return ""
     logo = str(logo).strip()
@@ -66,7 +65,7 @@ def load_csv(path: Path, use_online_logo: bool) -> pd.DataFrame:
     df['tvg-name'] = df.get('tvg-name', df['频道名称'])
 
     df['播放地址'] = df['播放地址'].apply(fix_url)
-    df['Logo链接'] = df.apply(lambda r: fix_logo(r['Logo链接'], r['tvg-name'], use_online_logo), axis=1)
+    df['Logo链接'] = df.apply(lambda r: fix_logo(r['Logo链接'], use_online_logo), axis=1)
     return df
 
 
