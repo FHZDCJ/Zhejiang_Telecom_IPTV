@@ -42,10 +42,10 @@ def fix_logo(logo: str, use_online: bool) -> str:
     :param use_online: 是否使用在线 logo
     :return: 修正后的 logo 地址
     """
-    if use_online:
-        return f"https://myepg.org/Zhejiang_Telecom_IPTV/Logo/{logo}"
-    elif pd.isna(logo) or str(logo).strip() == "":
+    if pd.isna(logo) or str(logo).strip() == "":
         return ""
+    elif use_online:
+        return f"https://myepg.org/Zhejiang_Telecom_IPTV/Logo/{logo}"
     logo = str(logo).strip()
     return logo if '://' in logo else LOGO_ROOT_ADDRESS + logo.lstrip('/')
 
