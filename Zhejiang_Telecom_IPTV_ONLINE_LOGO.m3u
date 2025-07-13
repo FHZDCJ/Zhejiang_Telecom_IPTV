@@ -171,9 +171,9 @@ http://{{your_udpxy_address}}/udp/233.50.201.176:5140
 http://{{your_udpxy_address}}/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州导视.png" group-title="地方",杭州导视
 http://{{your_udpxy_address}}/udp/233.50.201.182:5140
-#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/nan" group-title="地方",临平新闻
+#EXTINF:-1 tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="" group-title="地方",临平新闻
 http://{{your_udpxy_address}}/udp/233.50.202.32:5140
-#EXTINF:-1 tvg-id="余杭新闻" tvg-name="余杭新闻" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/nan" group-title="地方",余杭新闻
+#EXTINF:-1 tvg-id="余杭新闻" tvg-name="余杭新闻" tvg-logo="" group-title="地方",余杭新闻
 http://{{your_udpxy_address}}/udp/233.50.201.159:5140
 #EXTINF:-1 tvg-id="宁波TV1" tvg-name="宁波TV1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/宁波新闻综合.png" group-title="地方",宁波1新闻
 http://{{your_udpxy_address}}/udp/233.50.201.168:5140
