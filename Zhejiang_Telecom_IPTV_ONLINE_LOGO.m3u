@@ -243,7 +243,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.80:5140
 http://{{your_udpxy_address}}/udp/233.50.201.81:5140
 #EXTINF:-1 tvg-id="浙江音乐调频" tvg-name="浙江音乐调频" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江音乐调频.png" group-title="广播",浙江音乐调频
 http://{{your_udpxy_address}}/udp/233.50.201.82:5140
-#EXTINF:-1 tvg-id="浙江交通之声" tvg-name="浙江交通之声" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江交通之声.png" group-title="广播",第一财经
+#EXTINF:-1 tvg-id="浙江交通之声" tvg-name="浙江交通之声" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江交通之声.png" group-title="广播",浙江交通之声
 http://{{your_udpxy_address}}/udp/233.50.201.83:5140
 #EXTINF:-1 tvg-id="浙江旅游之声" tvg-name="浙江旅游之声" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江旅游之声.png" group-title="广播",浙江旅游之声
 http://{{your_udpxy_address}}/udp/233.50.201.84:5140
