@@ -157,7 +157,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.136:5140
 http://{{your_udpxy_address}}/udp/233.50.201.137:5140
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江少儿.png" group-title="地方",浙江少儿
 http://{{your_udpxy_address}}/udp/233.50.201.138:5140
-#EXTINF:-1 tvg-id="之江记录" tvg-name="之江记录" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/之江记录.png" group-title="地方",之江记录
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/之江纪录.png" group-title="地方",之江纪录
 http://{{your_udpxy_address}}/udp/233.50.202.25:5140
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/杭州综合.png" group-title="地方",杭州1综合
 http://{{your_udpxy_address}}/udp/233.50.201.173:5140

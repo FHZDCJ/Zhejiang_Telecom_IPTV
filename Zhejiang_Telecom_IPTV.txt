@@ -82,7 +82,7 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 浙江民生休闲,http://{{your_udpxy_address}}/udp/233.50.201.136:5140
 浙江公共新闻,http://{{your_udpxy_address}}/udp/233.50.201.137:5140
 浙江少儿,http://{{your_udpxy_address}}/udp/233.50.201.138:5140
-之江记录,http://{{your_udpxy_address}}/udp/233.50.202.25:5140
+之江纪录,http://{{your_udpxy_address}}/udp/233.50.202.25:5140
 杭州综合,http://{{your_udpxy_address}}/udp/233.50.201.173:5140
 杭州西湖明珠,http://{{your_udpxy_address}}/udp/233.50.201.174:5140
 杭州生活,http://{{your_udpxy_address}}/udp/233.50.201.175:5140
