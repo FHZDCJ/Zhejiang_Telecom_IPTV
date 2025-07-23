@@ -1,5 +1,5 @@
 <h1 style="text-align: center;" align="center">
-浙江电信IPTV组播源 & EPG分发
+浙江电信IPTV组播源 & 杭州单播源 & EPG分发
 </h1>
 
 <h3 style="text-align: center;" align="center">
@@ -36,7 +36,7 @@
 
 ## 项目简介
 
-本项目收录浙江电信IPTV的组播频道地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供台标，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
+本项目收录浙江电信IPTV的组播源及单播源地址，提供`.m3u`、`.txt`格式的直播源，`.csv`格式的列表，提供台标，提供自定义订阅链接接口，提供在线替换变量功能，适配[112114 EPG](https://epg.112114.xyz)节目单。
 
 本项目具有两个同步镜像，两个仓库的数据保持一致：
 [GitHub](https://github.com/FHZDCJ/Zhejiang_Telecom_IPTV)  [Gitee](https://gitee.com/FHZDCJ/Zhejiang_Telecom_IPTV)
