@@ -47,7 +47,8 @@
 
 本项目每天自动对现有频道列表进行频道分辨率及有效性检测，并提供检测报告，你可以点击以下链接查阅。
 
-[https://myepg.org/Zhejiang_Telecom_IPTV/report.html](https://myepg.org/Zhejiang_Telecom_IPTV/report.html)
+[浙江组播源检测报告](https://myepg.org/Zhejiang_Telecom_IPTV/report.html)
+[浙江杭州单播源检测报告](https://myepg.org/Zhejiang_Hangzhou_Telecom_IPTV/report.html)
 
 ## 节目源收录说明
 
