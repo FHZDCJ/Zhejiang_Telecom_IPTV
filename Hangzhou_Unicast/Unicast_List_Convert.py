@@ -95,7 +95,11 @@ def write_txt(path: Path, df: pd.DataFrame) -> None:
     """
     groups = defaultdict(list)
     for _, row in df.iterrows():
-        groups[row["ChannelGroup"]].append((row["Tvg-name"], row["ChannelURL_rtsp"]))
+        # 判断 Tvg-name 是否为空或 NaN，用 ChannelName 替代
+        name = row["Tvg-name"]
+        if pd.isna(name) or str(name).strip() == "":
+            name = row["ChannelName"]
+        groups[row["ChannelGroup"]].append((name, row["ChannelURL_rtsp"]))
 
     with path.open('w', encoding='utf-8') as f:
         for group, items in groups.items():
