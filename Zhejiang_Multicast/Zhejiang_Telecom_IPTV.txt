@@ -119,7 +119,7 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 睛彩篮球,http://{{your_udpxy_address}}/udp/233.50.202.27:5140
 睛彩青少,http://{{your_udpxy_address}}/udp/233.50.202.28:5140
 睛彩广场舞,http://{{your_udpxy_address}}/udp/233.50.202.29:5140
-其它,#genre#
+其他,#genre#
 东方财经,http://{{your_udpxy_address}}/udp/233.50.200.177:5140
 第一财经,http://{{your_udpxy_address}}/udp/233.50.200.125:5140
 环球旅游,http://{{your_udpxy_address}}/udp/233.50.202.31:5140
