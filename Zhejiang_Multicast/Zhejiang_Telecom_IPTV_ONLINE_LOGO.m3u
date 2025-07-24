@@ -35,14 +35,14 @@ http://{{your_udpxy_address}}/udp/233.50.200.133:5140
 http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
 http://{{your_udpxy_address}}/udp/233.50.200.113:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 http://{{your_udpxy_address}}/udp/233.50.201.63:5140
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
-http://{{your_udpxy_address}}/udp/233.50.202.102:5140
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视4K.png" group-title="4K超高清",广东卫视4K
-http://{{your_udpxy_address}}/udp/233.50.202.101:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
 http://{{your_udpxy_address}}/udp/233.50.202.100:5140
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/广东卫视4K.png" group-title="4K超高清",广东卫视4K
+http://{{your_udpxy_address}}/udp/233.50.202.101:5140
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
+http://{{your_udpxy_address}}/udp/233.50.202.102:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/欢笑剧场4K.png" group-title="4K超高清",欢笑剧场4K
 http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-1
@@ -107,14 +107,6 @@ http://{{your_udpxy_address}}/udp/233.50.202.42:5140
 http://{{your_udpxy_address}}/udp/233.50.200.175:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://{{your_udpxy_address}}/udp/233.50.201.148:5140
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
-http://{{your_udpxy_address}}/udp/233.50.200.166:5140
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/哈哈炫动.png" group-title="卫视",哈哈炫动
-http://{{your_udpxy_address}}/udp/233.50.200.167:5140
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV1.png" group-title="卫视",中国教育1台
-http://{{your_udpxy_address}}/udp/233.50.200.169:5140
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV4.png" group-title="卫视",中国教育4台
-http://{{your_udpxy_address}}/udp/233.50.200.162:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/青海卫视.png" group-title="卫视",青海卫视
 http://{{your_udpxy_address}}/udp/233.50.201.65:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -129,12 +121,20 @@ http://{{your_udpxy_address}}/udp/233.50.201.51:5140
 http://{{your_udpxy_address}}/udp/233.50.201.57:5140
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/延边卫视.png" group-title="卫视",延边卫视
 http://{{your_udpxy_address}}/udp/233.50.200.184:5140
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
-http://{{your_udpxy_address}}/udp/233.50.201.73:5140
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV1.png" group-title="卫视",中国教育1台
+http://{{your_udpxy_address}}/udp/233.50.200.169:5140
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV4.png" group-title="卫视",中国教育4台
+http://{{your_udpxy_address}}/udp/233.50.200.162:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰中文.png" group-title="卫视",凤凰中文
 http://{{your_udpxy_address}}/udp/233.50.202.35:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰资讯.png" group-title="卫视",凤凰资讯
 http://{{your_udpxy_address}}/udp/233.50.202.36:5140
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
+http://{{your_udpxy_address}}/udp/233.50.200.166:5140
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/哈哈炫动.png" group-title="卫视",哈哈炫动
+http://{{your_udpxy_address}}/udp/233.50.200.167:5140
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
+http://{{your_udpxy_address}}/udp/233.50.201.73:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="国际",CGTN
 http://{{your_udpxy_address}}/udp/233.50.201.126:5140
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN西班牙语.png" group-title="国际",CGTN西班牙语
@@ -221,19 +221,19 @@ http://{{your_udpxy_address}}/udp/233.50.201.187:5140
 http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
 http://{{your_udpxy_address}}/udp/233.50.201.109:5140
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="其他",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
 http://{{your_udpxy_address}}/udp/233.50.202.26:5140
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="其他",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="付费",睛彩篮球
 http://{{your_udpxy_address}}/udp/233.50.202.27:5140
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩青少.png" group-title="其他",睛彩青少
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩青少.png" group-title="付费",睛彩青少
 http://{{your_udpxy_address}}/udp/233.50.202.28:5140
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="其他",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="付费",睛彩广场舞
 http://{{your_udpxy_address}}/udp/233.50.202.29:5140
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其他",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其它",东方财经
 http://{{your_udpxy_address}}/udp/233.50.200.177:5140
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其他",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其它",第一财经
 http://{{your_udpxy_address}}/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其他",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其它",环球旅游
 http://{{your_udpxy_address}}/udp/233.50.202.31:5140
 #EXTINF:-1 tvg-id="浙江之声广播" tvg-name="浙江之声广播" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江之声广播.png" group-title="广播",浙江之声广播
 http://{{your_udpxy_address}}/udp/233.50.201.79:5140
