@@ -77,8 +77,9 @@
 
 #### 杭州单播(/Hangzhou_Unicast)：
 
-*解释：杭州单播提供的是完整的纯单播源，仅适用于杭州，本源每日自动同步更新，并自动分组、更名、排序。*
+*解释：杭州单播提供的是完整的纯单播源，仅适用于杭州，本源每日自动同步更新，并自动分组、更名、排序。本项目单独提供适配的EPG用于完整适配回放功能。*
 
+- `/EPG/hz_uni_epg.xml.gz`：适用于杭州单播源的EPG，每天自动更新，用于完整适配回放功能。
 - `Hangzhou_Telecom_Unicast.m3u`：使用本地台标的m3u模板，适合局域网内自建http服务器使用。
 - `Hangzhou_Telecom_Unicast_ONLINE_LOGO.m3u`：使用本项目在线台标的m3u源。
 - `Hangzhou_Telecom_Unicast.txt`：纯文本格式频道源。
