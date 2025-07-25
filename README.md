@@ -11,7 +11,7 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/FHZDCJ/Zhejiang_Telecom_IPTV?style=flat">
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/FHZDCJ/Zhejiang_Telecom_IPTV">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FHZDCJ/Zhejiang_Telecom_IPTV">
-<img alt="Number of channels" src="https://myepg.org/Zhejiang_Telecom_IPTV/number.php">
+<img alt="Number of channels" src="https://myepg.org/Zhejiang_Telecom_IPTV/number">
 </div>
 
 ---
