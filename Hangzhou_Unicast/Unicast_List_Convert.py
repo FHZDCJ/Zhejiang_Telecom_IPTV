@@ -77,10 +77,14 @@ def write_m3u(path: Path, df: pd.DataFrame) -> None:
     :param df: 已处理的频道表
     """
     with path.open('w', encoding='utf-8') as f:
-        f.write("#EXTM3U\n")
+        f.write('#EXTM3U x-tvg-url="https://myepg.org/Zhejiang_Telecom_IPTV/EPG/hz_uni_epg.xml.gz"\n')
         for _, row in df.iterrows():
+            # f.write(
+            #     f'#EXTINF:-1 tvg-id="{row["Tvg-id"]}" tvg-name="{row["Tvg-name"]}" '
+            #     f'tvg-logo="{row["Logo"]}" group-title="{row["ChannelGroup"]}",{row["ChannelName"]}\n'
+            # )
             f.write(
-                f'#EXTINF:-1 tvg-id="{row["Tvg-id"]}" tvg-name="{row["Tvg-name"]}" '
+                f'#EXTINF:-1 tvg-id="{row["ChannelID"]}" tvg-name="{row["ChannelName"]}" '
                 f'tvg-logo="{row["Logo"]}" group-title="{row["ChannelGroup"]}",{row["ChannelName"]}\n'
             )
             f.write(f"{row['ChannelURL_rtsp']}\n")
@@ -96,7 +100,9 @@ def write_txt(path: Path, df: pd.DataFrame) -> None:
     groups = defaultdict(list)
     for _, row in df.iterrows():
         # 判断 Tvg-name 是否为空或 NaN，用 ChannelName 替代
-        name = row["Tvg-name"]
+        # name = row["Tvg-name"]
+        name = row["ChannelName"]
+
         if pd.isna(name) or str(name).strip() == "":
             name = row["ChannelName"]
         groups[row["ChannelGroup"]].append((name, row["ChannelURL_rtsp"]))
