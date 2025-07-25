@@ -311,8 +311,8 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229015/10000100000000060000000004308
 rtsp://115.233.41.137/PLTV/88888913/224/3221229303/67227411.smil
 #EXTINF:-1 tvg-id="nan" tvg-name="nan" tvg-logo="" group-title="其他",熊猫宝宝幼儿园
 rtsp://115.233.41.137/PLTV/88888913/224/3221229232/67227295.smil
-#EXTINF:-1 tvg-id="nan" tvg-name="nan" tvg-logo="" group-title="其他",测试SD4
-rtsp://115.233.41.137/PLTV/88888913/224/3221228990/10000100000000060000000004414502_0.smil
+#EXTINF:-1 tvg-id="nan" tvg-name="nan" tvg-logo="" group-title="其他",大熊猫的一天
+rtsp://115.233.41.137/PLTV/88888913/224/3221229269/67227366.smil
 #EXTINF:-1 tvg-id="nan" tvg-name="nan" tvg-logo="" group-title="其他",信号测试3
 rtsp://115.233.41.137/PLTV/88888913/224/3221229181/50701500.smil
 #EXTINF:-1 tvg-id="nan" tvg-name="nan" tvg-logo="" group-title="其他",4K测试1
