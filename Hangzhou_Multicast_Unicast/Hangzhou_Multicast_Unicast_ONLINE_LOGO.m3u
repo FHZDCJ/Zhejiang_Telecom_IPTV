@@ -229,11 +229,11 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229412/94611355.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229411/94611457.smil
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="付费",睛彩广场舞
 rtsp://115.233.41.137/PLTV/88888913/224/3221229410/94611402.smil
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其它",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其他",东方财经
 http://{{your_udpxy_address}}/udp/233.50.200.177:5140
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其它",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其他",第一财经
 http://{{your_udpxy_address}}/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其它",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其他",环球旅游
 rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
 #EXTINF:-1 tvg-id="浙江之声广播" tvg-name="浙江之声广播" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江之声广播.png" group-title="广播",浙江之声广播
 rtsp://115.233.41.137/PLTV/88888913/224/3221228218/10000100000000060000000003102657_0.smil
