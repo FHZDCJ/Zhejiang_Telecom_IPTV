@@ -293,8 +293,6 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
 #EXTINF:-1 tvg-id="121778721" tvg-name="好易购2" tvg-logo="" group-title="其他",好易购2
 rtsp://115.233.41.137/PLTV/88888913/224/3221229439/121778722.smil
-#EXTINF:-1 tvg-id="110996830" tvg-name="车迷" tvg-logo="" group-title="其他",车迷
-rtsp://115.233.41.137/PLTV/88888913/224/3221229421/110996831.smil
 #EXTINF:-1 tvg-id="5672" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
 rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
 #EXTINF:-1 tvg-id="119642394" tvg-name="优购物" tvg-logo="" group-title="其他",优购物
