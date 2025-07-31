@@ -84,7 +84,7 @@ def write_m3u(path: Path, df: pd.DataFrame) -> None:
             #     f'tvg-logo="{row["Logo"]}" group-title="{row["ChannelGroup"]}",{row["ChannelName"]}\n'
             # )
             f.write(
-                f'#EXTINF:-1 tvg-id="{row["ChannelID"]}" tvg-name="{row["ChannelName"]}" '
+                f'#EXTINF:-1 tvg-id="{row["ChannelName"]}" tvg-name="{row["ChannelName"]}" '
                 f'tvg-logo="{row["Logo"]}" group-title="{row["ChannelGroup"]}",{row["ChannelName"]}\n'
             )
             f.write(f"{row['ChannelURL_rtsp']}\n")
