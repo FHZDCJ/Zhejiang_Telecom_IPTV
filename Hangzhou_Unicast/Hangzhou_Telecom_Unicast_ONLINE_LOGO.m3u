@@ -289,6 +289,8 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221228291/10000100000000060000000003102
 rtsp://115.233.41.137/PLTV/88888913/224/3221228233/10000100000000060000000003102678_0.smil
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其他",环球旅游
 rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="" group-title="其他",生态环境
+rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
 #EXTINF:-1 tvg-id="好易购1高清" tvg-name="好易购1高清" tvg-logo="" group-title="其他",好易购1高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
 #EXTINF:-1 tvg-id="好易购2" tvg-name="好易购2" tvg-logo="" group-title="其他",好易购2
