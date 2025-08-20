@@ -110,15 +110,17 @@ http://{{your_udpxy_address}}/udp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="http://{{your_logo_address}}/Logo/青海卫视.png" group-title="卫视",青海卫视
 rtsp://115.233.41.137/PLTV/88888913/224/3221227765/10000100000000060000000000304132_0.smil
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="http://{{your_logo_address}}/Logo/西藏卫视.png" group-title="卫视",西藏卫视
-rtsp://115.233.41.137/PLTV/88888913/224/3221228005/10000100000000060000000000793620_0.smil
+rtsp://115.233.41.137/PLTV/88888913/224/3221229457/134307492.smil
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="http://{{your_logo_address}}/Logo/陕西卫视.png" group-title="卫视",陕西卫视
 rtsp://115.233.41.137/PLTV/88888913/224/3221227826/10000100000000060000000000304223_0.smil
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://{{your_logo_address}}/Logo/兵团卫视.png" group-title="卫视",兵团卫视
-rtsp://115.233.41.137/PLTV/88888913/224/3221228006/10000100000000060000000000789241_0.smil
+rtsp://115.233.41.137/PLTV/88888913/224/3221229461/134307530.smil
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="http://{{your_logo_address}}/Logo/山西卫视.png" group-title="卫视",山西卫视
 rtsp://115.233.41.137/PLTV/88888913/224/3221227787/10000100000000060000000000304213_0.smil
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="http://{{your_logo_address}}/Logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-rtsp://115.233.41.137/PLTV/88888913/224/3221227855/10000100000000060000000000304710_0.smil
+rtsp://115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="http://{{your_logo_address}}/Logo/新疆卫视.png" group-title="卫视",新疆卫视
+rtsp://115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="http://{{your_logo_address}}/Logo/延边卫视.png" group-title="卫视",延边卫视
 http://{{your_udpxy_address}}/udp/233.50.200.184:5140
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="http://{{your_logo_address}}/Logo/CETV1.png" group-title="卫视",中国教育1台

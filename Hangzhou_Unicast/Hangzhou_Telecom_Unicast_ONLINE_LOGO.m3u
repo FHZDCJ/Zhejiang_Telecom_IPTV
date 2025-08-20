@@ -105,6 +105,14 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221228102/10000100000000060000000002242
 rtsp://115.233.41.137/PLTV/88888913/224/3221228068/10000100000000060000000002242148_0.smil
 #EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="卫视高清",东方卫视高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221228140/10000100000000060000000002670196_0.smil
+#EXTINF:-1 tvg-id="西藏卫视高清" tvg-name="西藏卫视高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/西藏卫视.png" group-title="卫视高清",西藏卫视高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229457/134307492.smil
+#EXTINF:-1 tvg-id="兵团卫视高清" tvg-name="兵团卫视高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/兵团卫视.png" group-title="卫视高清",兵团卫视高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229461/134307530.smil
+#EXTINF:-1 tvg-id="宁夏卫视高清" tvg-name="宁夏卫视高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/宁夏卫视.png" group-title="卫视高清",宁夏卫视高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
+#EXTINF:-1 tvg-id="新疆卫视高清" tvg-name="新疆卫视高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/新疆卫视.png" group-title="卫视高清",新疆卫视高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰中文.png" group-title="卫视高清",凤凰中文
 rtsp://115.233.41.137/PLTV/88888913/224/3221229422/110077577.smil
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰资讯.png" group-title="卫视高清",凤凰资讯
@@ -299,16 +307,8 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229439/121778722.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="" group-title="其他",优购物
 rtsp://115.233.41.137/PLTV/88888913/224/3221229436/119642395.smil
-#EXTINF:-1 tvg-id="西藏卫视高清" tvg-name="西藏卫视高清" tvg-logo="" group-title="其他",西藏卫视高清
-rtsp://115.233.41.137/PLTV/88888913/224/3221229457/134307492.smil
-#EXTINF:-1 tvg-id="兵团卫视高清" tvg-name="兵团卫视高清" tvg-logo="" group-title="其他",兵团卫视高清
-rtsp://115.233.41.137/PLTV/88888913/224/3221229461/134307530.smil
-#EXTINF:-1 tvg-id="宁夏卫视高清" tvg-name="宁夏卫视高清" tvg-logo="" group-title="其他",宁夏卫视高清
-rtsp://115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="" group-title="其他",聚鲨环球精选
 rtsp://115.233.41.137/PLTV/88888913/224/3221228984/10000100000000060000000004366615_0.smil
-#EXTINF:-1 tvg-id="新疆卫视高清" tvg-name="新疆卫视高清" tvg-logo="" group-title="其他",新疆卫视高清
-rtsp://115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
 #EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4
 rtsp://115.233.41.137/PLTV/88888913/224/3221229007/10000100000000060000000004308260_0.smil
 #EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="其他",直播室5
