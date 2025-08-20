@@ -6,7 +6,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.119:5140
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV3.png" group-title="央视",CCTV3综艺
 http://{{your_udpxy_address}}/udp/233.50.201.196:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4.png" group-title="央视",CCTV4中文国际
-http://{{your_udpxy_address}}/udp/233.50.200.101:5140
+http://{{your_udpxy_address}}/udp/233.50.202.38:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5.png" group-title="央视",CCTV5体育
 http://{{your_udpxy_address}}/udp/233.50.201.197:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
@@ -22,7 +22,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.121:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV10.png" group-title="央视",CCTV10科教
 http://{{your_udpxy_address}}/udp/233.50.201.122:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV11.png" group-title="央视",CCTV11戏曲
-http://{{your_udpxy_address}}/udp/233.50.200.132:5140
+http://{{your_udpxy_address}}/udp/233.50.202.39:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV12.png" group-title="央视",CCTV12社会与法
 http://{{your_udpxy_address}}/udp/233.50.201.123:5140
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV13.png" group-title="央视",CCTV13新闻
@@ -30,7 +30,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV14.png" group-title="央视",CCTV14少儿
 http://{{your_udpxy_address}}/udp/233.50.201.124:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV15.png" group-title="央视",CCTV15音乐
-http://{{your_udpxy_address}}/udp/233.50.200.133:5140
+http://{{your_udpxy_address}}/udp/233.50.202.40:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
 http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV17.png" group-title="央视",CCTV17农业农村

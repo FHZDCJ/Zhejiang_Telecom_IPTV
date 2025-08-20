@@ -2,7 +2,7 @@
 CCTV1,http://{{your_udpxy_address}}/udp/233.50.201.118:5140
 CCTV2,http://{{your_udpxy_address}}/udp/233.50.201.119:5140
 CCTV3,http://{{your_udpxy_address}}/udp/233.50.201.196:5140
-CCTV4,http://{{your_udpxy_address}}/udp/233.50.200.101:5140
+CCTV4,http://{{your_udpxy_address}}/udp/233.50.202.38:5140
 CCTV5,http://{{your_udpxy_address}}/udp/233.50.201.197:5140
 CCTV5+,http://{{your_udpxy_address}}/udp/233.50.201.220:5140
 CCTV6,http://{{your_udpxy_address}}/udp/233.50.201.198:5140
@@ -10,11 +10,11 @@ CCTV7,http://{{your_udpxy_address}}/udp/233.50.201.120:5140
 CCTV8,http://{{your_udpxy_address}}/udp/233.50.201.199:5140
 CCTV9,http://{{your_udpxy_address}}/udp/233.50.201.121:5140
 CCTV10,http://{{your_udpxy_address}}/udp/233.50.201.122:5140
-CCTV11,http://{{your_udpxy_address}}/udp/233.50.200.132:5140
+CCTV11,http://{{your_udpxy_address}}/udp/233.50.202.39:5140
 CCTV12,http://{{your_udpxy_address}}/udp/233.50.201.123:5140
 CCTV13,http://{{your_udpxy_address}}/udp/233.50.201.246:5140
 CCTV14,http://{{your_udpxy_address}}/udp/233.50.201.124:5140
-CCTV15,http://{{your_udpxy_address}}/udp/233.50.200.133:5140
+CCTV15,http://{{your_udpxy_address}}/udp/233.50.202.40:5140
 CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 4K超高清,#genre#
