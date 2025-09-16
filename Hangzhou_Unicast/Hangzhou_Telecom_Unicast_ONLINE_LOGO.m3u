@@ -187,8 +187,6 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221227968/10000100000000060000000000789
 rtsp://115.233.41.137/PLTV/88888913/224/3221229128/10000100000000060000000005781889_0.smil
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/卡酷少儿.png" group-title="卫视标清",卡酷少儿
 rtsp://115.233.41.137/PLTV/88888913/224/3221229420/110036417.smil
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/哈哈炫动.png" group-title="卫视标清",哈哈炫动
-rtsp://115.233.41.137/PLTV/88888913/224/3221227973/10000100000000060000000000789247_0.smil
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金鹰卡通.png" group-title="卫视标清",金鹰卡通
 rtsp://115.233.41.137/PLTV/88888913/224/3221229202/59229692.smil
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CGTN.png" group-title="国际",CGTN
