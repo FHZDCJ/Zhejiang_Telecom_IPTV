@@ -63,17 +63,17 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229453/128124469.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229456/131699760.smil
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229455/131699790.smil
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/浙江卫视" group-title="4K超高清",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/浙江卫视.png" group-title="4K超高清",浙江卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229473/136086103.smil
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/东方卫视" group-title="4K超高清",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/东方卫视.png" group-title="4K超高清",东方卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229460/136083232.smil
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/湖南卫视" group-title="4K超高清",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/湖南卫视.png" group-title="4K超高清",湖南卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229464/136083240.smil
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/江苏卫视" group-title="4K超高清",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/江苏卫视.png" group-title="4K超高清",江苏卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229468/136083267.smil
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/四川卫视" group-title="4K超高清",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/四川卫视.png" group-title="4K超高清",四川卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/山东卫视" group-title="4K超高清",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="http://{{your_logo_address}}/Logo/山东卫视.png" group-title="4K超高清",山东卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
 #EXTINF:-1 tvg-id="浙江卫视高清" tvg-name="浙江卫视高清" tvg-logo="http://{{your_logo_address}}/Logo/浙江卫视.png" group-title="卫视高清",浙江卫视高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221228012/10000100000000060000000000794032_0.smil
