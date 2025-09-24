@@ -307,6 +307,18 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414
 rtsp://115.233.41.137/PLTV/88888913/224/3221229436/119642395.smil
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="" group-title="其他",聚鲨环球精选
 rtsp://115.233.41.137/PLTV/88888913/224/3221228984/10000100000000060000000004366615_0.smil
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="其他",浙江卫视4K
+rtsp://115.233.41.137/PLTV/88888913/224/3221229473/136086103.smil
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="" group-title="其他",东方卫视4K
+rtsp://115.233.41.137/PLTV/88888913/224/3221229460/136083232.smil
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="其他",湖南卫视4K
+rtsp://115.233.41.137/PLTV/88888913/224/3221229464/136083240.smil
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="" group-title="其他",江苏卫视4K
+rtsp://115.233.41.137/PLTV/88888913/224/3221229468/136083267.smil
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="" group-title="其他",四川卫视4K
+rtsp://115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="其他",山东卫视4K
+rtsp://115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
 #EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4
 rtsp://115.233.41.137/PLTV/88888913/224/3221229007/10000100000000060000000004308260_0.smil
 #EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="其他",直播室5
