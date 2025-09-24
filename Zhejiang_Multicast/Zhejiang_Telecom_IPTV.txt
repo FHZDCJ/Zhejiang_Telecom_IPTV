@@ -22,6 +22,12 @@ CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.63:5140
 北京卫视,http://{{your_udpxy_address}}/udp/233.50.202.100:5140
 广东卫视,http://{{your_udpxy_address}}/udp/233.50.202.101:5140
 深圳卫视,http://{{your_udpxy_address}}/udp/233.50.202.102:5140
+浙江卫视,http://{{your_udpxy_address}}/udp/233.50.202.104:5140
+东方卫视,http://{{your_udpxy_address}}/udp/233.50.202.105:5140
+湖南卫视,http://{{your_udpxy_address}}/udp/233.50.202.106:5140
+江苏卫视,http://{{your_udpxy_address}}/udp/233.50.202.107:5140
+四川卫视,http://{{your_udpxy_address}}/udp/233.50.202.109:5140
+山东卫视,http://{{your_udpxy_address}}/udp/233.50.202.108:5140
 欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 BesTV-1,http://{{your_udpxy_address}}/udp/233.50.200.182:5140
 BesTV-2,http://{{your_udpxy_address}}/udp/233.50.200.183:5140
