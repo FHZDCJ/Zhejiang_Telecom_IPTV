@@ -6,7 +6,7 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221228083/10000100000000060000000002633
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV3.png" group-title="央视",CCTV3综艺
 rtsp://115.233.41.137/PLTV/88888913/224/3221229136/10000100000000060000000005809121_0.smil
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4.png" group-title="央视",CCTV4中文国际
-http://{{your_udpxy_address}}/udp/233.50.202.38:5140
+http://{{your_udpxy_address}}/udp/233.50.200.101:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5.png" group-title="央视",CCTV5体育
 rtsp://115.233.41.137/PLTV/88888913/224/3221229114/10000100000000060000000005809143_0.smil
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
@@ -22,7 +22,7 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221228112/10000100000000060000000002633
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV10.png" group-title="央视",CCTV10科教
 rtsp://115.233.41.137/PLTV/88888913/224/3221228131/10000100000000060000000002633383_0.smil
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV11.png" group-title="央视",CCTV11戏曲
-http://{{your_udpxy_address}}/udp/233.50.202.39:5140
+http://{{your_udpxy_address}}/udp/233.50.200.132:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV12.png" group-title="央视",CCTV12社会与法
 rtsp://115.233.41.137/PLTV/88888913/224/3221228130/10000100000000060000000002633382_0.smil
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV13.png" group-title="央视",CCTV13新闻
@@ -30,7 +30,7 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229154/52628615.smil
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV14.png" group-title="央视",CCTV14少儿
 rtsp://115.233.41.137/PLTV/88888913/224/3221228088/10000100000000060000000002633381_0.smil
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV15.png" group-title="央视",CCTV15音乐
-http://{{your_udpxy_address}}/udp/233.50.202.40:5140
+http://{{your_udpxy_address}}/udp/233.50.200.133:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
 rtsp://115.233.41.137/PLTV/88888913/224/3221229307/70526246.smil
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
@@ -114,7 +114,7 @@ http://{{your_udpxy_address}}/udp/233.50.200.136:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/云南卫视.png" group-title="卫视",云南卫视
 http://{{your_udpxy_address}}/udp/233.50.200.115:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://{{your_udpxy_address}}/udp/233.50.202.42:5140
+http://{{your_udpxy_address}}/udp/233.50.200.164:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://{{your_udpxy_address}}/udp/233.50.200.175:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
@@ -133,12 +133,10 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221227787/10000100000000060000000000304
 rtsp://115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 rtsp://115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
-#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/延边卫视.png" group-title="卫视",延边卫视
-http://{{your_udpxy_address}}/udp/233.50.200.184:5140
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV1.png" group-title="卫视",中国教育1台
 http://{{your_udpxy_address}}/udp/233.50.200.169:5140
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CETV4.png" group-title="卫视",中国教育4台
-http://{{your_udpxy_address}}/udp/233.50.200.162:5140
+http://{{your_udpxy_address}}/udp/233.50.200.174:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰中文.png" group-title="卫视",凤凰中文
 rtsp://115.233.41.137/PLTV/88888913/224/3221229422/110077577.smil
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/凤凰资讯.png" group-title="卫视",凤凰资讯

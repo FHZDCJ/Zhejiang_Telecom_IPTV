@@ -2,7 +2,7 @@
 CCTV1,http://{{your_udpxy_address}}/udp/233.50.201.118:5140
 CCTV2,http://{{your_udpxy_address}}/udp/233.50.201.119:5140
 CCTV3,http://{{your_udpxy_address}}/udp/233.50.201.196:5140
-CCTV4,http://{{your_udpxy_address}}/udp/233.50.202.38:5140
+CCTV4,http://{{your_udpxy_address}}/udp/233.50.200.101:5140
 CCTV5,http://{{your_udpxy_address}}/udp/233.50.201.197:5140
 CCTV5+,http://{{your_udpxy_address}}/udp/233.50.201.220:5140
 CCTV6,http://{{your_udpxy_address}}/udp/233.50.201.198:5140
@@ -10,11 +10,11 @@ CCTV7,http://{{your_udpxy_address}}/udp/233.50.201.120:5140
 CCTV8,http://{{your_udpxy_address}}/udp/233.50.201.199:5140
 CCTV9,http://{{your_udpxy_address}}/udp/233.50.201.121:5140
 CCTV10,http://{{your_udpxy_address}}/udp/233.50.201.122:5140
-CCTV11,http://{{your_udpxy_address}}/udp/233.50.202.39:5140
+CCTV11,http://{{your_udpxy_address}}/udp/233.50.200.132:5140
 CCTV12,http://{{your_udpxy_address}}/udp/233.50.201.123:5140
 CCTV13,http://{{your_udpxy_address}}/udp/233.50.201.246:5140
 CCTV14,http://{{your_udpxy_address}}/udp/233.50.201.124:5140
-CCTV15,http://{{your_udpxy_address}}/udp/233.50.202.40:5140
+CCTV15,http://{{your_udpxy_address}}/udp/233.50.200.133:5140
 CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.192:5140
 CCTV17,http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 4K超高清,#genre#
@@ -58,7 +58,7 @@ BesTV-3,http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 海南卫视,http://{{your_udpxy_address}}/udp/233.50.200.165:5140
 广西卫视,http://{{your_udpxy_address}}/udp/233.50.200.136:5140
 云南卫视,http://{{your_udpxy_address}}/udp/233.50.200.115:5140
-吉林卫视,http://{{your_udpxy_address}}/udp/233.50.202.42:5140
+吉林卫视,http://{{your_udpxy_address}}/udp/233.50.200.164:5140
 三沙卫视,http://{{your_udpxy_address}}/udp/233.50.200.175:5140
 内蒙古卫视,http://{{your_udpxy_address}}/udp/233.50.201.148:5140
 青海卫视,http://{{your_udpxy_address}}/udp/233.50.201.65:5140
@@ -68,9 +68,8 @@ BesTV-3,http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 山西卫视,http://{{your_udpxy_address}}/udp/233.50.201.51:5140
 宁夏卫视,http://{{your_udpxy_address}}/udp/233.50.202.45:5140
 新疆卫视,http://{{your_udpxy_address}}/udp/233.50.202.46:5140
-延边卫视,http://{{your_udpxy_address}}/udp/233.50.200.184:5140
 中国教育1台,http://{{your_udpxy_address}}/udp/233.50.200.169:5140
-中国教育4台,http://{{your_udpxy_address}}/udp/233.50.200.162:5140
+中国教育4台,http://{{your_udpxy_address}}/udp/233.50.200.174:5140
 凤凰中文,http://{{your_udpxy_address}}/udp/233.50.202.35:5140
 凤凰资讯,http://{{your_udpxy_address}}/udp/233.50.202.36:5140
 卡酷少儿,http://{{your_udpxy_address}}/udp/233.50.202.33:5140
