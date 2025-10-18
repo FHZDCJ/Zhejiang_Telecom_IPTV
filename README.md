@@ -66,7 +66,7 @@
 
 #### 浙江组播(/Zhejiang_Multicast)：
 
-*解释：浙江组播提供的是纯组播源，如果某一频道单播源对应的组播源发生变更，本组播源也会自动同步。*
+> *说明：浙江组播提供的是纯组播源，如果某一频道单播源对应的组播源发生变更，本组播源也会自动同步。*
 
 - `Zhejiang_Telecom_IPTV.m3u`：使用本地台标的m3u模板，适合局域网内自建http服务器使用。
 - `Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u`：使用本项目在线台标的m3u源。
@@ -78,9 +78,9 @@
 
 #### 杭州单播(/Hangzhou_Unicast)：
 
-*解释：杭州单播提供的是完整的纯单播源，仅适用于杭州，本源每日自动同步更新，并自动分组、更名、排序。本项目单独提供适配的EPG用于完整适配回放功能。*
+> *说明：杭州单播提供的是完整的纯单播源，仅适用于杭州，本源每日自动同步更新，并自动分组、更名、排序。本项目单独提供适配的EPG用于完整适配回放功能。*
 
-- `/EPG/hz_uni_epg.xml.gz`：适用于杭州单播源的EPG，每天自动更新，用于完整适配回放功能。
+- `/EPG/hz_uni_epg.xml.gz`：适用于杭州单播源的EPG，每天自动更新，用于完整适配回放功能。EPG分发路径：`https://myepg.org/Zhejiang_Telecom_IPTV/EPG/hz_uni_epg.xml.gz`
 - `Hangzhou_Telecom_Unicast.m3u`：使用本地台标的m3u模板，适合局域网内自建http服务器使用。
 - `Hangzhou_Telecom_Unicast_ONLINE_LOGO.m3u`：使用本项目在线台标的m3u源。
 - `Hangzhou_Telecom_Unicast.txt`：纯文本格式频道源。
@@ -89,7 +89,7 @@
 
 #### 杭州组单播复合(/Hangzhou_Multicast_Unicast)：
 
-*解释：杭州组单播复合是为了查漏补缺，仅适用于杭州，由于部分单播源没有高清版本，因此本源在组播源基础上，对有单播源的频道自动改为单播源，每日自动同步更新。*
+> *说明：杭州组单播复合是为了查漏补缺，仅适用于杭州，由于部分单播源没有高清版本，因此本源在组播源基础上，对有单播源的频道自动改为单播源，每日自动同步更新。*
 
 - `Hangzhou_Multicast_Unicast.m3u`：使用本地台标的m3u模板，适合局域网内自建http服务器使用。
 - `Hangzhou_Multicast_Unicast_ONLINE_LOGO.m3u`：使用本项目在线台标的m3u源。
