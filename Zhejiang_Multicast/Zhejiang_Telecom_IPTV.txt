@@ -73,7 +73,6 @@ BesTV-3,http://{{your_udpxy_address}}/udp/233.50.200.185:5140
 凤凰中文,http://{{your_udpxy_address}}/udp/233.50.202.35:5140
 凤凰资讯,http://{{your_udpxy_address}}/udp/233.50.202.36:5140
 卡酷少儿,http://{{your_udpxy_address}}/udp/233.50.202.33:5140
-哈哈炫动,http://{{your_udpxy_address}}/udp/233.50.200.167:5140
 金鹰卡通,http://{{your_udpxy_address}}/udp/233.50.201.73:5140
 国际,#genre#
 CGTN,http://{{your_udpxy_address}}/udp/233.50.201.126:5140

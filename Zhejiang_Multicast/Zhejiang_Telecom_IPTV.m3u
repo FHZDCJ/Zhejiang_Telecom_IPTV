@@ -143,8 +143,6 @@ http://{{your_udpxy_address}}/udp/233.50.202.35:5140
 http://{{your_udpxy_address}}/udp/233.50.202.36:5140
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="http://{{your_logo_address}}/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
 http://{{your_udpxy_address}}/udp/233.50.202.33:5140
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="http://{{your_logo_address}}/Logo/哈哈炫动.png" group-title="卫视",哈哈炫动
-http://{{your_udpxy_address}}/udp/233.50.200.167:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="http://{{your_logo_address}}/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
 http://{{your_udpxy_address}}/udp/233.50.201.73:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://{{your_logo_address}}/Logo/CGTN.png" group-title="国际",CGTN
