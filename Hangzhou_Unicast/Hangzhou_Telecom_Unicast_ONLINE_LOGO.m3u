@@ -277,10 +277,6 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229285/72486834.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229315/72486946.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生活时尚.png" group-title="付费高清",生活时尚
 rtsp://115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/茶频道.png" group-title="付费高清",茶频道
-rtsp://115.233.41.137/PLTV/88888913/224/3221229281/72486910.smil
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费高清",快乐垂钓
-rtsp://115.233.41.137/PLTV/88888913/224/3221229327/72487516.smil
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费高清",睛彩竞技
 rtsp://115.233.41.137/PLTV/88888913/224/3221229408/94611403.smil
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="付费高清",睛彩篮球
@@ -315,8 +311,12 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229439/121778722.smil
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
 rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
+#EXTINF:-1 tvg-id="中央四套高清" tvg-name="中央四套高清" tvg-logo="" group-title="其他",中央四套高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229474/139134403.smil
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="" group-title="其他",优购物
 rtsp://115.233.41.137/PLTV/88888913/224/3221229436/119642395.smil
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
+rtsp://115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="" group-title="其他",聚鲨环球精选
 rtsp://115.233.41.137/PLTV/88888913/224/3221228984/10000100000000060000000004366615_0.smil
 #EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4

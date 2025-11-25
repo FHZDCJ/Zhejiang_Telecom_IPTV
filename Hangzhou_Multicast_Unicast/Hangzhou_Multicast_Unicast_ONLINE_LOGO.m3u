@@ -228,9 +228,9 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229315/72486946.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生活时尚.png" group-title="付费",生活时尚
 rtsp://115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/茶频道.png" group-title="付费",茶频道
-rtsp://115.233.41.137/PLTV/88888913/224/3221229281/72486910.smil
+http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
-rtsp://115.233.41.137/PLTV/88888913/224/3221229327/72487516.smil
+http://{{your_udpxy_address}}/udp/233.50.201.109:5140
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
 rtsp://115.233.41.137/PLTV/88888913/224/3221229408/94611403.smil
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="付费",睛彩篮球
