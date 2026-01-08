@@ -18,7 +18,7 @@ OUTPUT_M3U = Path('Zhejiang_Telecom_IPTV.m3u')
 OUTPUT_M3U_ONLINE_LOGO = Path('Zhejiang_Telecom_IPTV_ONLINE_LOGO.m3u')
 OUTPUT_TXT = Path('Zhejiang_Telecom_IPTV.txt')
 
-UDPXY_ADDRESS = 'http://{{your_udpxy_address}}/udp/'
+UDPXY_ADDRESS = 'http://{{your_udpxy_address}}/rtp/'
 LOGO_ROOT_ADDRESS = 'http://{{your_logo_address}}/Logo/'
 # ==========================
 
