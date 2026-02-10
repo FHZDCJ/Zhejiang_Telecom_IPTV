@@ -5,6 +5,8 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460
 rtsp://115.233.41.137/PLTV/88888913/224/3221228083/10000100000000060000000002633372_0.smil
 #EXTINF:-1 tvg-id="CCTV3综艺高清" tvg-name="CCTV3综艺高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV3.png" group-title="央视高清",CCTV3综艺高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221229136/10000100000000060000000005809121_0.smil
+#EXTINF:-1 tvg-id="CCTV4中文国际高清" tvg-name="CCTV4中文国际高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4,png" group-title="央视高清",CCTV4中文国际高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229474/139134403.smil
 #EXTINF:-1 tvg-id="CCTV5体育高清" tvg-name="CCTV5体育高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5.png" group-title="央视高清",CCTV5体育高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221229114/10000100000000060000000005809143_0.smil
 #EXTINF:-1 tvg-id="CCTV5+体育赛事高清" tvg-name="CCTV5+体育赛事高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5+.png" group-title="央视高清",CCTV5+体育赛事高清
@@ -309,8 +311,6 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
 rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
-#EXTINF:-1 tvg-id="中央四套高清" tvg-name="中央四套高清" tvg-logo="" group-title="其他",中央四套高清
-rtsp://115.233.41.137/PLTV/88888913/224/3221229474/139134403.smil
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
 rtsp://115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="" group-title="其他",聚鲨环球精选
