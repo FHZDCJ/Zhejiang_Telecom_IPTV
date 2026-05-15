@@ -232,13 +232,13 @@ http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://{{your_logo_address}}/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
 http://{{your_udpxy_address}}/udp/233.50.201.109:5140
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="http://{{your_logo_address}}/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
-rtsp://115.233.41.137/PLTV/88888913/224/3221229408/94611403.smil
+http://{{your_udpxy_address}}/udp/233.50.202.26:5140
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="http://{{your_logo_address}}/Logo/睛彩篮球.png" group-title="付费",睛彩篮球
-rtsp://115.233.41.137/PLTV/88888913/224/3221229412/94611355.smil
+http://{{your_udpxy_address}}/udp/233.50.202.27:5140
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="http://{{your_logo_address}}/Logo/睛彩青少.png" group-title="付费",睛彩青少
-rtsp://115.233.41.137/PLTV/88888913/224/3221229411/94611457.smil
+http://{{your_udpxy_address}}/udp/233.50.202.28:5140
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="http://{{your_logo_address}}/Logo/睛彩广场舞.png" group-title="付费",睛彩广场舞
-rtsp://115.233.41.137/PLTV/88888913/224/3221229410/94611402.smil
+http://{{your_udpxy_address}}/udp/233.50.202.29:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="http://{{your_logo_address}}/Logo/东方财经.png" group-title="其他",东方财经
 http://{{your_udpxy_address}}/udp/233.50.200.177:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="http://{{your_logo_address}}/Logo/第一财经.png" group-title="其他",第一财经

@@ -279,14 +279,6 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229285/72486834.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229315/72486946.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生活时尚.png" group-title="付费高清",生活时尚
 rtsp://115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费高清",睛彩竞技
-rtsp://115.233.41.137/PLTV/88888913/224/3221229408/94611403.smil
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩篮球.png" group-title="付费高清",睛彩篮球
-rtsp://115.233.41.137/PLTV/88888913/224/3221229412/94611355.smil
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩青少.png" group-title="付费高清",睛彩青少
-rtsp://115.233.41.137/PLTV/88888913/224/3221229411/94611457.smil
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩广场舞.png" group-title="付费高清",睛彩广场舞
-rtsp://115.233.41.137/PLTV/88888913/224/3221229410/94611402.smil
 #EXTINF:-1 tvg-id="浙江之声广播" tvg-name="浙江之声广播" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江之声广播.png" group-title="广播",浙江之声广播
 rtsp://115.233.41.137/PLTV/88888913/224/3221228218/10000100000000060000000003102657_0.smil
 #EXTINF:-1 tvg-id="浙江新闻广播" tvg-name="浙江新闻广播" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江新闻广播.png" group-title="广播",浙江新闻广播
