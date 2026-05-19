@@ -55,7 +55,7 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229468/136083267.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="http://{{your_logo_address}}/Logo/山东卫视.png" group-title="4K超高清",山东卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="http://{{your_logo_address}}/Logo/欢笑剧场4K.png" group-title="4K超高清",欢笑剧场4K
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="http://{{your_logo_address}}/Logo/多彩文体4K.png" group-title="4K超高清",多彩文体4K
 http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="http://{{your_logo_address}}/Logo/BesTV.png" group-title="4K超高清",BesTV-1
 http://{{your_udpxy_address}}/udp/233.50.200.182:5140
@@ -195,6 +195,10 @@ http://{{your_udpxy_address}}/udp/233.50.201.179:5140
 http://{{your_udpxy_address}}/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="http://{{your_logo_address}}/Logo/温州新闻综合.png" group-title="地方",温州新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.87:5140
+#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="http://{{your_logo_address}}/Logo/温州经济科技.png" group-title="地方",温州经济科技
+http://{{your_udpxy_address}}/udp/233.50.202.23:5140
+#EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" tvg-logo="http://{{your_logo_address}}/Logo/温州都市生活.png" group-title="地方",温州都市生活
+http://{{your_udpxy_address}}/udp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="http://{{your_logo_address}}/Logo/绍兴新闻综合.png" group-title="地方",绍兴新闻综合
 http://{{your_udpxy_address}}/udp/233.50.201.156:5140
 #EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="http://{{your_logo_address}}/Logo/湖州新闻综合.png" group-title="地方",湖州新闻综合
@@ -211,7 +215,7 @@ http://{{your_udpxy_address}}/udp/233.50.201.169:5140
 http://{{your_udpxy_address}}/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="http://{{your_logo_address}}/Logo/衢州公共.png" group-title="地方",衢州公共
 http://{{your_udpxy_address}}/udp/233.50.202.12:5140
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="http://{{your_logo_address}}/Logo/欢笑剧场.png" group-title="付费",欢笑剧场
+#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="http://{{your_logo_address}}/Logo/多彩文体.png" group-title="付费",多彩文体
 rtsp://115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="http://{{your_logo_address}}/Logo/都市剧场.png" group-title="付费",都市剧场
 rtsp://115.233.41.137/PLTV/88888913/224/3221229244/72486950.smil
@@ -231,20 +235,14 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
 http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://{{your_logo_address}}/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
 http://{{your_udpxy_address}}/udp/233.50.201.109:5140
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="http://{{your_logo_address}}/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
-http://{{your_udpxy_address}}/udp/233.50.202.26:5140
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="http://{{your_logo_address}}/Logo/睛彩篮球.png" group-title="付费",睛彩篮球
-http://{{your_udpxy_address}}/udp/233.50.202.27:5140
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="http://{{your_logo_address}}/Logo/睛彩青少.png" group-title="付费",睛彩青少
-http://{{your_udpxy_address}}/udp/233.50.202.28:5140
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="http://{{your_logo_address}}/Logo/睛彩广场舞.png" group-title="付费",睛彩广场舞
-http://{{your_udpxy_address}}/udp/233.50.202.29:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="http://{{your_logo_address}}/Logo/东方财经.png" group-title="其他",东方财经
 http://{{your_udpxy_address}}/udp/233.50.200.177:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="http://{{your_logo_address}}/Logo/第一财经.png" group-title="其他",第一财经
 http://{{your_udpxy_address}}/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://{{your_logo_address}}/Logo/环球旅游.png" group-title="其他",环球旅游
 rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="http://{{your_logo_address}}/Logo/生态环境.png" group-title="其他",生态环境
+rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
 #EXTINF:-1 tvg-id="浙江之声广播" tvg-name="浙江之声广播" tvg-logo="http://{{your_logo_address}}/Logo/浙江之声广播.png" group-title="广播",浙江之声广播
 rtsp://115.233.41.137/PLTV/88888913/224/3221228218/10000100000000060000000003102657_0.smil
 #EXTINF:-1 tvg-id="浙江新闻广播" tvg-name="浙江新闻广播" tvg-logo="http://{{your_logo_address}}/Logo/浙江新闻广播.png" group-title="广播",浙江新闻广播

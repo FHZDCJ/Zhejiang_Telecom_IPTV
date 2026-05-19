@@ -28,7 +28,7 @@ CCTV16,http://{{your_udpxy_address}}/udp/233.50.201.63:5140
 江苏卫视,http://{{your_udpxy_address}}/udp/233.50.202.107:5140
 四川卫视,http://{{your_udpxy_address}}/udp/233.50.202.109:5140
 山东卫视,http://{{your_udpxy_address}}/udp/233.50.202.108:5140
-欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.200.52:5140
+多彩文体,http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 BesTV-1,http://{{your_udpxy_address}}/udp/233.50.200.182:5140
 BesTV-2,http://{{your_udpxy_address}}/udp/233.50.200.183:5140
 BesTV-3,http://{{your_udpxy_address}}/udp/233.50.200.185:5140
@@ -101,6 +101,8 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 宁波TV3,http://{{your_udpxy_address}}/udp/233.50.201.179:5140
 宁波TV4,http://{{your_udpxy_address}}/udp/233.50.201.180:5140
 温州新闻综合,http://{{your_udpxy_address}}/udp/233.50.201.87:5140
+温州经济科技,http://{{your_udpxy_address}}/udp/233.50.202.23:5140
+温州都市生活,http://{{your_udpxy_address}}/udp/233.50.202.24:5140
 绍兴新闻综合,http://{{your_udpxy_address}}/udp/233.50.201.156:5140
 湖州新闻综合,http://{{your_udpxy_address}}/udp/233.50.201.158:5140
 金华新闻,http://{{your_udpxy_address}}/udp/233.50.201.161:5140
@@ -110,7 +112,7 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 衢州新闻综合,http://{{your_udpxy_address}}/udp/233.50.202.11:5140
 衢州公共,http://{{your_udpxy_address}}/udp/233.50.202.12:5140
 付费,#genre#
-欢笑剧场,http://{{your_udpxy_address}}/udp/233.50.201.189:5140
+多彩文体,http://{{your_udpxy_address}}/udp/233.50.201.189:5140
 都市剧场,http://{{your_udpxy_address}}/udp/233.50.201.190:5140
 法制天地,http://{{your_udpxy_address}}/udp/233.50.201.191:5140
 动漫秀场,http://{{your_udpxy_address}}/udp/233.50.201.184:5140
@@ -120,14 +122,11 @@ CGTN俄语,http://{{your_udpxy_address}}/udp/233.50.201.39:5140
 生活时尚,http://{{your_udpxy_address}}/udp/233.50.201.187:5140
 茶频道,http://{{your_udpxy_address}}/udp/233.50.201.188:5140
 快乐垂钓,http://{{your_udpxy_address}}/udp/233.50.201.109:5140
-睛彩竞技,http://{{your_udpxy_address}}/udp/233.50.202.26:5140
-睛彩篮球,http://{{your_udpxy_address}}/udp/233.50.202.27:5140
-睛彩青少,http://{{your_udpxy_address}}/udp/233.50.202.28:5140
-睛彩广场舞,http://{{your_udpxy_address}}/udp/233.50.202.29:5140
 其他,#genre#
 东方财经,http://{{your_udpxy_address}}/udp/233.50.200.177:5140
 第一财经,http://{{your_udpxy_address}}/udp/233.50.200.125:5140
 环球旅游,http://{{your_udpxy_address}}/udp/233.50.202.31:5140
+生态环境,http://{{your_udpxy_address}}/udp/233.50.202.103:5140
 广播,#genre#
 浙江之声广播,http://{{your_udpxy_address}}/udp/233.50.201.79:5140
 浙江新闻广播,http://{{your_udpxy_address}}/udp/233.50.201.80:5140
