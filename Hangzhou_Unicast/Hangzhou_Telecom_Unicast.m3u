@@ -305,20 +305,12 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
 rtsp://115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
-#EXTINF:-1 tvg-id="直播室HD 1" tvg-name="直播室HD 1" tvg-logo="" group-title="其他",直播室HD 1
-rtsp://115.233.41.137/PLTV/88888913/224/3221229482/147989284.smil
-#EXTINF:-1 tvg-id="直播室HD 2" tvg-name="直播室HD 2" tvg-logo="" group-title="其他",直播室HD 2
-rtsp://115.233.41.137/PLTV/88888913/224/3221229477/147989234.smil
-#EXTINF:-1 tvg-id="直播室HD 3" tvg-name="直播室HD 3" tvg-logo="" group-title="其他",直播室HD 3
-rtsp://115.233.41.137/PLTV/88888913/224/3221229463/147989291.smil
 #EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4
 rtsp://115.233.41.137/PLTV/88888913/224/3221229007/10000100000000060000000004308260_0.smil
 #EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="其他",直播室5
 rtsp://115.233.41.137/PLTV/88888913/224/3221229011/10000100000000060000000004308262_0.smil
 #EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" tvg-logo="" group-title="其他",直播室6
 rtsp://115.233.41.137/PLTV/88888913/224/3221229015/10000100000000060000000004308263_0.smil
-#EXTINF:-1 tvg-id="直播室HD 7" tvg-name="直播室HD 7" tvg-logo="" group-title="其他",直播室HD 7
-rtsp://115.233.41.137/PLTV/88888913/224/3221229485/147989240.smil
 #EXTINF:-1 tvg-id="爱看熊猫" tvg-name="爱看熊猫" tvg-logo="" group-title="其他",爱看熊猫
 rtsp://115.233.41.137/PLTV/88888913/224/3221229303/67227411.smil
 #EXTINF:-1 tvg-id="熊猫宝宝幼儿园" tvg-name="熊猫宝宝幼儿园" tvg-logo="" group-title="其他",熊猫宝宝幼儿园
