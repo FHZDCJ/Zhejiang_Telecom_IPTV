@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://myepg.org/Zhejiang_Telecom_IPTV/EPG/hz_uni_epg.xml.gz"
-#EXTINF:-1 tvg-id="CCTV4中文国际高清" tvg-name="CCTV4中文国际高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4" group-title="央视高清",CCTV4中文国际高清
-233.50.201.127:5140
 #EXTINF:-1 tvg-id="CCTV1综合高清" tvg-name="CCTV1综合高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV1.png" group-title="央视高清",CCTV1综合高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil
 #EXTINF:-1 tvg-id="CCTV2财经高清" tvg-name="CCTV2财经高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV2.png" group-title="央视高清",CCTV2财经高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221228083/10000100000000060000000002633372_0.smil
 #EXTINF:-1 tvg-id="CCTV3综艺高清" tvg-name="CCTV3综艺高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV3.png" group-title="央视高清",CCTV3综艺高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221229136/10000100000000060000000005809121_0.smil
+#EXTINF:-1 tvg-id="CCTV4中文国际高清" tvg-name="CCTV4中文国际高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4,png" group-title="央视高清",CCTV4中文国际高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229474/139134403.smil
 #EXTINF:-1 tvg-id="CCTV5体育高清" tvg-name="CCTV5体育高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5.png" group-title="央视高清",CCTV5体育高清
 rtsp://115.233.41.137/PLTV/88888913/224/3221229114/10000100000000060000000005809143_0.smil
 #EXTINF:-1 tvg-id="CCTV5+体育赛事高清" tvg-name="CCTV5+体育赛事高清" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5+.png" group-title="央视高清",CCTV5+体育赛事高清
@@ -299,33 +299,33 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221228233/10000100000000060000000003102
 rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生态环境.png" group-title="其他",生态环境
 rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
-#EXTINF:-1 tvg-id="高清导视" tvg-name="高清导视" tvg-logo="" group-title="其他",高清导视
-rtsp://115.233.41.137/PLTV/88888913/224/3221228038/10000100000000060000000001122729_0.smil
-#EXTINF:-1 tvg-id="导视频道" tvg-name="导视频道" tvg-logo="" group-title="其他",导视频道
-rtsp://115.233.41.137/PLTV/88888913/224/3221228087/10000100000000060000000001432912_0.smil
+#EXTINF:-1 tvg-id="好易购1高清" tvg-name="好易购1高清" tvg-logo="" group-title="其他",好易购1高清
+rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
+rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
+rtsp://115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
 #EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4
 rtsp://115.233.41.137/PLTV/88888913/224/3221229007/10000100000000060000000004308260_0.smil
 #EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="其他",直播室5
 rtsp://115.233.41.137/PLTV/88888913/224/3221229011/10000100000000060000000004308262_0.smil
 #EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" tvg-logo="" group-title="其他",直播室6
 rtsp://115.233.41.137/PLTV/88888913/224/3221229015/10000100000000060000000004308263_0.smil
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
-rtsp://115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
-#EXTINF:-1 tvg-id="珠峰直播2" tvg-name="珠峰直播2" tvg-logo="" group-title="其他",珠峰直播2
-rtsp://115.233.41.137/PLTV/88888913/224/3221229068/10000100000000060000000005029495_0.smil
-#EXTINF:-1 tvg-id="4K测试1" tvg-name="4K测试1" tvg-logo="" group-title="其他",4K测试1
-rtsp://115.233.41.137/PLTV/88888913/224/3221229167/10000100000000060000000005029497_0.smil
-#EXTINF:-1 tvg-id="信号测试2" tvg-name="信号测试2" tvg-logo="" group-title="其他",信号测试2
-rtsp://115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
-#EXTINF:-1 tvg-id="信号测试3" tvg-name="信号测试3" tvg-logo="" group-title="其他",信号测试3
-rtsp://115.233.41.137/PLTV/88888913/224/3221229181/50701500.smil
-#EXTINF:-1 tvg-id="好易购1高清" tvg-name="好易购1高清" tvg-logo="" group-title="其他",好易购1高清
-rtsp://115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
+#EXTINF:-1 tvg-id="爱看熊猫" tvg-name="爱看熊猫" tvg-logo="" group-title="其他",爱看熊猫
+rtsp://115.233.41.137/PLTV/88888913/224/3221229303/67227411.smil
 #EXTINF:-1 tvg-id="熊猫宝宝幼儿园" tvg-name="熊猫宝宝幼儿园" tvg-logo="" group-title="其他",熊猫宝宝幼儿园
 rtsp://115.233.41.137/PLTV/88888913/224/3221229232/67227295.smil
 #EXTINF:-1 tvg-id="大熊猫的一天" tvg-name="大熊猫的一天" tvg-logo="" group-title="其他",大熊猫的一天
 rtsp://115.233.41.137/PLTV/88888913/224/3221229269/67227366.smil
-#EXTINF:-1 tvg-id="爱看熊猫" tvg-name="爱看熊猫" tvg-logo="" group-title="其他",爱看熊猫
-rtsp://115.233.41.137/PLTV/88888913/224/3221229303/67227411.smil
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
-rtsp://115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
+#EXTINF:-1 tvg-id="信号测试3" tvg-name="信号测试3" tvg-logo="" group-title="其他",信号测试3
+rtsp://115.233.41.137/PLTV/88888913/224/3221229181/50701500.smil
+#EXTINF:-1 tvg-id="4K测试1" tvg-name="4K测试1" tvg-logo="" group-title="其他",4K测试1
+rtsp://115.233.41.137/PLTV/88888913/224/3221229167/10000100000000060000000005029497_0.smil
+#EXTINF:-1 tvg-id="信号测试2" tvg-name="信号测试2" tvg-logo="" group-title="其他",信号测试2
+rtsp://115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
+#EXTINF:-1 tvg-id="珠峰直播2" tvg-name="珠峰直播2" tvg-logo="" group-title="其他",珠峰直播2
+rtsp://115.233.41.137/PLTV/88888913/224/3221229068/10000100000000060000000005029495_0.smil
+#EXTINF:-1 tvg-id="导视频道" tvg-name="导视频道" tvg-logo="" group-title="其他",导视频道
+rtsp://115.233.41.137/PLTV/88888913/224/3221228087/10000100000000060000000001432912_0.smil
+#EXTINF:-1 tvg-id="高清导视" tvg-name="高清导视" tvg-logo="" group-title="其他",高清导视
+rtsp://115.233.41.137/PLTV/88888913/224/3221228038/10000100000000060000000001122729_0.smil
