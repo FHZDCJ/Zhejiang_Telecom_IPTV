@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV1.png" group-title="央视",CCTV1综合
+rtsp://115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV2.png" group-title="央视",CCTV2财经
+rtsp://115.233.41.137/PLTV/88888913/224/3221228083/10000100000000060000000002633372_0.smil
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV3.png" group-title="央视",CCTV3综艺
+rtsp://115.233.41.137/PLTV/88888913/224/3221229136/10000100000000060000000005809121_0.smil
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4.png" group-title="央视",CCTV4中文国际
+http://{{your_udpxy_address}}/udp/233.50.200.101:5140
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5.png" group-title="央视",CCTV5体育
+rtsp://115.233.41.137/PLTV/88888913/224/3221229114/10000100000000060000000005809143_0.smil
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+rtsp://115.233.41.137/PLTV/88888913/224/3221229201/52583204.smil
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV6.png" group-title="央视",CCTV6电影
+rtsp://115.233.41.137/PLTV/88888913/224/3221229161/10000100000000060000000005809142_0.smil
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV7.png" group-title="央视",CCTV7国防军事
+rtsp://115.233.41.137/PLTV/88888913/224/3221228093/10000100000000060000000002633385_0.smil
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV8.png" group-title="央视",CCTV8电视剧
+rtsp://115.233.41.137/PLTV/88888913/224/3221229157/10000100000000060000000005809141_0.smil
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV9.png" group-title="央视",CCTV9纪录
+rtsp://115.233.41.137/PLTV/88888913/224/3221228112/10000100000000060000000002633384_0.smil
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV10.png" group-title="央视",CCTV10科教
+rtsp://115.233.41.137/PLTV/88888913/224/3221228131/10000100000000060000000002633383_0.smil
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV11.png" group-title="央视",CCTV11戏曲
+http://{{your_udpxy_address}}/udp/233.50.200.132:5140
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV12.png" group-title="央视",CCTV12社会与法
+rtsp://115.233.41.137/PLTV/88888913/224/3221228130/10000100000000060000000002633382_0.smil
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV13.png" group-title="央视",CCTV13新闻
+rtsp://115.233.41.137/PLTV/88888913/224/3221229154/52628615.smil
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV14.png" group-title="央视",CCTV14少儿
+rtsp://115.233.41.137/PLTV/88888913/224/3221228088/10000100000000060000000002633381_0.smil
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV15.png" group-title="央视",CCTV15音乐
+http://{{your_udpxy_address}}/udp/233.50.200.133:5140
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
+rtsp://115.233.41.137/PLTV/88888913/224/3221229307/70526246.smil
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
+http://{{your_udpxy_address}}/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229331/74036079.smil
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
@@ -19,7 +55,7 @@ rtsp://115.233.41.137/PLTV/88888913/224/3221229468/136083267.smil
 rtsp://115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="4K超高清",山东卫视4K
 rtsp://115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/多彩文体4K.png" group-title="4K超高清",多彩文体4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/欢笑剧场4K.png" group-title="4K超高清",欢笑剧场4K
 http://{{your_udpxy_address}}/udp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="BesTV-1" tvg-name="BesTV-1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-1
 http://{{your_udpxy_address}}/udp/233.50.200.182:5140
@@ -27,34 +63,6 @@ http://{{your_udpxy_address}}/udp/233.50.200.182:5140
 http://{{your_udpxy_address}}/udp/233.50.200.183:5140
 #EXTINF:-1 tvg-id="BesTV-3" tvg-name="BesTV-3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/BesTV.png" group-title="4K超高清",BesTV-3
 http://{{your_udpxy_address}}/udp/233.50.200.185:5140
-#EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/多彩文体.png" group-title="付费",多彩文体
-rtsp://115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/都市剧场.png" group-title="付费",都市剧场
-rtsp://115.233.41.137/PLTV/88888913/224/3221229244/72486950.smil
-#EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/法制天地.png" group-title="付费",法制天地
-rtsp://115.233.41.137/PLTV/88888913/224/3221229323/72486984.smil
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/动漫秀场.png" group-title="付费",动漫秀场
-rtsp://115.233.41.137/PLTV/88888913/224/3221229236/72486907.smil
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/游戏风云.png" group-title="付费",游戏风云
-rtsp://115.233.41.137/PLTV/88888913/224/3221229289/72488480.smil
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/乐游.png" group-title="付费",乐游
-rtsp://115.233.41.137/PLTV/88888913/224/3221229285/72486834.smil
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金色学堂.png" group-title="付费",金色学堂
-rtsp://115.233.41.137/PLTV/88888913/224/3221229315/72486946.smil
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生活时尚.png" group-title="付费",生活时尚
-rtsp://115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/茶频道.png" group-title="付费",茶频道
-http://{{your_udpxy_address}}/udp/233.50.201.188:5140
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
-http://{{your_udpxy_address}}/udp/233.50.201.109:5140
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其他",东方财经
-http://{{your_udpxy_address}}/udp/233.50.200.177:5140
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其他",第一财经
-http://{{your_udpxy_address}}/udp/233.50.200.125:5140
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其他",环球旅游
-rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生态环境.png" group-title="其他",生态环境
-rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="卫视",浙江卫视
 rtsp://115.233.41.137/PLTV/88888913/224/3221228012/10000100000000060000000000794032_0.smil
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视.png" group-title="卫视",深圳卫视
@@ -110,7 +118,7 @@ http://{{your_udpxy_address}}/udp/233.50.200.164:5140
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://{{your_udpxy_address}}/udp/233.50.200.175:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://{{your_udpxy_address}}/udp/233.50.201.148:5140
+rtsp://115.233.41.137/PLTV/88888913/224/3221229147/10000100000000060000000004969231_0.smil
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/青海卫视.png" group-title="卫视",青海卫视
 rtsp://115.233.41.137/PLTV/88888913/224/3221227765/10000100000000060000000000304132_0.smil
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -207,42 +215,34 @@ http://{{your_udpxy_address}}/udp/233.50.201.169:5140
 http://{{your_udpxy_address}}/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/衢州公共.png" group-title="地方",衢州公共
 http://{{your_udpxy_address}}/udp/233.50.202.12:5140
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV1.png" group-title="央视",CCTV1综合
-rtsp://115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV2.png" group-title="央视",CCTV2财经
-rtsp://115.233.41.137/PLTV/88888913/224/3221228083/10000100000000060000000002633372_0.smil
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV3.png" group-title="央视",CCTV3综艺
-rtsp://115.233.41.137/PLTV/88888913/224/3221229136/10000100000000060000000005809121_0.smil
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV4.png" group-title="央视",CCTV4中文国际
-http://{{your_udpxy_address}}/udp/233.50.200.101:5140
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5.png" group-title="央视",CCTV5体育
-rtsp://115.233.41.137/PLTV/88888913/224/3221229114/10000100000000060000000005809143_0.smil
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV5+.png" group-title="央视",CCTV5+体育赛事
-rtsp://115.233.41.137/PLTV/88888913/224/3221229201/52583204.smil
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV6.png" group-title="央视",CCTV6电影
-rtsp://115.233.41.137/PLTV/88888913/224/3221229161/10000100000000060000000005809142_0.smil
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV7.png" group-title="央视",CCTV7国防军事
-rtsp://115.233.41.137/PLTV/88888913/224/3221228093/10000100000000060000000002633385_0.smil
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV8.png" group-title="央视",CCTV8电视剧
-rtsp://115.233.41.137/PLTV/88888913/224/3221229157/10000100000000060000000005809141_0.smil
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV9.png" group-title="央视",CCTV9纪录
-rtsp://115.233.41.137/PLTV/88888913/224/3221228112/10000100000000060000000002633384_0.smil
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV10.png" group-title="央视",CCTV10科教
-rtsp://115.233.41.137/PLTV/88888913/224/3221228131/10000100000000060000000002633383_0.smil
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV11.png" group-title="央视",CCTV11戏曲
-http://{{your_udpxy_address}}/udp/233.50.200.132:5140
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV12.png" group-title="央视",CCTV12社会与法
-rtsp://115.233.41.137/PLTV/88888913/224/3221228130/10000100000000060000000002633382_0.smil
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV13.png" group-title="央视",CCTV13新闻
-rtsp://115.233.41.137/PLTV/88888913/224/3221229154/52628615.smil
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV14.png" group-title="央视",CCTV14少儿
-rtsp://115.233.41.137/PLTV/88888913/224/3221228088/10000100000000060000000002633381_0.smil
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV15.png" group-title="央视",CCTV15音乐
-http://{{your_udpxy_address}}/udp/233.50.200.133:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
-rtsp://115.233.41.137/PLTV/88888913/224/3221229307/70526246.smil
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
-http://{{your_udpxy_address}}/udp/233.50.200.113:5140
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/欢笑剧场.png" group-title="付费",欢笑剧场
+rtsp://115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/都市剧场.png" group-title="付费",都市剧场
+rtsp://115.233.41.137/PLTV/88888913/224/3221229244/72486950.smil
+#EXTINF:-1 tvg-id="法制天地" tvg-name="法制天地" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/法制天地.png" group-title="付费",法制天地
+rtsp://115.233.41.137/PLTV/88888913/224/3221229323/72486984.smil
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/动漫秀场.png" group-title="付费",动漫秀场
+rtsp://115.233.41.137/PLTV/88888913/224/3221229236/72486907.smil
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/游戏风云.png" group-title="付费",游戏风云
+rtsp://115.233.41.137/PLTV/88888913/224/3221229289/72488480.smil
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/乐游.png" group-title="付费",乐游
+rtsp://115.233.41.137/PLTV/88888913/224/3221229285/72486834.smil
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/金色学堂.png" group-title="付费",金色学堂
+rtsp://115.233.41.137/PLTV/88888913/224/3221229315/72486946.smil
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生活时尚.png" group-title="付费",生活时尚
+rtsp://115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/快乐垂钓.png" group-title="付费",快乐垂钓
+http://{{your_udpxy_address}}/udp/233.50.201.109:5140
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/睛彩竞技.png" group-title="付费",睛彩竞技
+http://{{your_udpxy_address}}/udp/233.50.200.245:5140
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方财经.png" group-title="其他",东方财经
+http://{{your_udpxy_address}}/udp/233.50.200.177:5140
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/第一财经.png" group-title="其他",第一财经
+http://{{your_udpxy_address}}/udp/233.50.200.125:5140
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/环球旅游.png" group-title="其他",环球旅游
+rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/生态环境.png" group-title="其他",生态环境
+rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
 #EXTINF:-1 tvg-id="浙江之声广播" tvg-name="浙江之声广播" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江之声广播.png" group-title="广播",浙江之声广播
 rtsp://115.233.41.137/PLTV/88888913/224/3221228218/10000100000000060000000003102657_0.smil
 #EXTINF:-1 tvg-id="浙江新闻广播" tvg-name="浙江新闻广播" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江新闻广播.png" group-title="广播",浙江新闻广播
